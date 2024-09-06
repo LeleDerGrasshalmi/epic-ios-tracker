@@ -7,10 +7,12 @@ import getAltstoreSource from './utils/get-altstore-source.js';
 import getAppManifest from './utils/get-app-manifest.js';
 
 import type { App, Version } from './types/altstore-source.js';
+import getMarketplaceKit from './utils/get-marketplace-kit.js';
 
 const outputFolder = 'output';
 const appsFolder = `${outputFolder}/apps`;
 const altstoreSourceFile = `${outputFolder}/altstore-source.json`;
+const marketplaceKitFile = `${outputFolder}/marketplace-kit.json`;
 
 interface AppChangelog {
   app: App;
@@ -23,47 +25,53 @@ const main = async () => {
   }
 
   const altstoreSource = await getAltstoreSource();
-
-  if (!altstoreSource.success) {
-    return;
-  }
-
-  await writeFile(altstoreSourceFile, JSON.stringify(altstoreSource.data, null, 3));
+  const marketplaceKit = await getMarketplaceKit();
 
   const changelog: AppChangelog[] = [];
 
-  for (let i = 0; i < altstoreSource.data.apps.length; i += 1) {
-    const app = altstoreSource.data.apps[i];
+  if (altstoreSource.success) {
+    await writeFile(altstoreSourceFile, JSON.stringify(altstoreSource.data, null, 3));
 
-    const appChangelog: AppChangelog = {
-      app,
-      addedVersions: [],
-    };
+    for (let i = 0; i < altstoreSource.data.apps.length; i += 1) {
+      const app = altstoreSource.data.apps[i];
 
-    for (let j = 0; j < app.versions.length; j += 1) {
-      const versionDetails = app.versions[j];
-      const versionManifest = await getAppManifest(versionDetails);
+      const appChangelog: AppChangelog = {
+        app,
+        addedVersions: [],
+      };
 
-      if (versionManifest.success) {
-        const appBundleId = app.bundleIdentifier.toLowerCase();
-        const appFolder = `${appsFolder}/${appBundleId}`;
-        const appFile = `${appFolder}/${versionDetails.version}.json`;
+      for (let j = 0; j < app.versions.length; j += 1) {
+        const versionDetails = app.versions[j];
+        const versionManifest = await getAppManifest(versionDetails);
 
-        if (!fs.existsSync(appFolder)) {
-          await fsp.mkdir(appFolder, { recursive: true });
+        if (versionManifest.success) {
+          const appBundleId = app.bundleIdentifier.toLowerCase();
+          const appFolder = `${appsFolder}/${appBundleId}`;
+          const appFile = `${appFolder}/${versionDetails.version}.json`;
+
+          if (!fs.existsSync(appFolder)) {
+            await fsp.mkdir(appFolder, { recursive: true });
+          }
+
+          if (!fs.existsSync(appFile)) {
+            appChangelog.addedVersions.push(versionDetails);
+          }
+
+          await writeFile(appFile, JSON.stringify({
+            meta: versionDetails,
+            manifest: versionManifest.data,
+          }, null, 3));
         }
+      }
 
-        if (!fs.existsSync(appFile)) {
-          appChangelog.addedVersions.push(versionDetails);
-        }
-
-        await writeFile(appFile, JSON.stringify(versionManifest.data, null, 3));
+      if (appChangelog.addedVersions.length > 0) {
+        changelog.push(appChangelog);
       }
     }
+  }
 
-    if (appChangelog.addedVersions.length > 0) {
-      changelog.push(appChangelog);
-    }
+  if (marketplaceKit.success) {
+    await writeFile(marketplaceKitFile, JSON.stringify(marketplaceKit.data, null, 3));
   }
 
   const gitStatus = execSync('git status')?.toString('utf-8') || '';
@@ -75,6 +83,14 @@ const main = async () => {
     } else {
       commitMessage = 'Modified Altstore Source';
     }
+  }
+
+  if (gitStatus.includes(marketplaceKitFile)) {
+    if (commitMessage.length) {
+      commitMessage += ', ';
+    }
+
+    commitMessage += 'Modified Marketplace Kit';
   }
 
   if (!commitMessage.length) {

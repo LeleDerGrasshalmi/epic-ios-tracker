@@ -13,19 +13,12 @@ export default async () => {
     };
   }
 
+  // https://faq.altstore.io/distribute-your-apps/make-a-source#overview
   const data = <AltstoreSourceData>(await res.json());
 
   // sorting ...
-  data.apps.sort((a, b) => a.bundleIdentifier.localeCompare(b.bundleIdentifier));
-  data.apps.forEach((app) => {
-    app.versions.sort((a, b) => {
-      if (a.date !== b.date) {
-        return Date.parse(b.date) - Date.parse(a.date);
-      }
-
-      return b.version.localeCompare(a.version);
-    });
-  });
+  data.apps
+    .sort((a, b) => a.bundleIdentifier.localeCompare(b.bundleIdentifier));
 
   return {
     success: true as const,

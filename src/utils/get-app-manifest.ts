@@ -16,29 +16,6 @@ export default async (version: Version) => {
 
   const data = <AppManifestData>(await res.json());
 
-  // sorting ...
-  data.variants.sort((a, b) => a.assetPath.localeCompare(b.assetPath));
-  data.variants.forEach((variant) => {
-    variant.installTargets.sort((a, b) => {
-      if (a.device !== b.device) {
-        return a.device.localeCompare(b.device);
-      }
-
-      return a.os.localeCompare(b.device);
-    });
-  });
-
-  data.deltas.sort((a, b) => a.assetPath.localeCompare(b.assetPath));
-  data.deltas.forEach((variant) => {
-    variant.sourceVariant.installTargets.sort((a, b) => {
-      if (a.device !== b.device) {
-        return a.device.localeCompare(b.device);
-      }
-
-      return a.os.localeCompare(b.device);
-    });
-  });
-
   return {
     success: true as const,
     data,
