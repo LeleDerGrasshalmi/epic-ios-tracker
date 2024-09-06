@@ -8,6 +8,7 @@ import getAppManifest from './utils/get-app-manifest.js';
 
 import type { App, Version } from './types/altstore-source.js';
 import getMarketplaceKit from './utils/get-marketplace-kit.js';
+import getAppSize from './utils/get-app-size.js';
 
 const outputFolder = 'output';
 const appsFolder = `${outputFolder}/apps`;
@@ -97,7 +98,45 @@ const main = async () => {
     return;
   }
 
-  console.log(commitMessage);
+  console.info(commitMessage);
+
+  if (gitStatus.includes(altstoreSourceFile)
+    && env.GIT_DO_NOT_SEND_WEBHOOK?.toLowerCase() !== 'true'
+    && env.WEBHOOK_URL
+    && URL.canParse(env.WEBHOOK_URL)
+    && changelog.length
+  ) {
+    const webhookRes = await fetch(env.WEBHOOK_URL, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        embeds: changelog.map(({ app, addedVersions }) => ({
+          title: app.name,
+          thumbnail: {
+            url: app.iconURL,
+          },
+          image: app.screenshots.length > 0
+            ? {
+              url: app.screenshots[0].imageURL,
+            }
+            : undefined,
+          footer: {
+            text: `${app.bundleIdentifier} / ${app.marketplaceID}`,
+          },
+          fields: addedVersions.map((x) => ({
+            name: `v${x.version} / ${x.buildVersion}`,
+            value: `Uncompressed Size: \`${getAppSize(x.size)}\`\nDate: <t:${Math.round(Date.parse(x.date) / 1000)}>`,
+          })),
+        })),
+      }),
+    });
+
+    if (!webhookRes.ok) {
+      console.error(`failed to send discord webhook: status ${webhookRes.status} ${webhookRes.statusText}: ${await webhookRes.text()}`)
+    }
+  }
 
   if (env.GIT_DO_NOT_COMMIT?.toLowerCase() === 'true') {
     return;
