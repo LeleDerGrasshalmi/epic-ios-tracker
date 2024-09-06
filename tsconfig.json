@@ -1,0 +1,23 @@
+{
+  "include": ["./**/*.ts", "./**/*.js", "./.eslintrc.cjs"],
+  "compilerOptions": {
+    "strict": true,
+    "moduleResolution": "node",
+    "module": "ESNext",
+    "target": "ESNext",
+    "skipLibCheck": true,
+    "isolatedModules": true,
+    "sourceMap": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": ["es2021", "ESNext"],
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "incremental": true,
+    "noEmitHelpers": true,
+    "importHelpers": true,
+    "types": ["node"],
+    "allowJs": true,
+    "declaration": true,
+    "noImplicitAny": true
+  }
+}

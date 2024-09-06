@@ -1,0 +1,28 @@
+name: Update
+on:
+  push:
+  schedule:
+    - cron: "*/15 * * * *" # runs every 15 minutes
+
+jobs:
+  check-api:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Use Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install deps
+        run: |
+          yarn
+
+      - name: Check for changes
+        id: changes
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+        run: |
+          yarn dev
