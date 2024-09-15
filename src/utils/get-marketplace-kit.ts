@@ -1,3 +1,5 @@
+import { MarketplaceKitData } from "../types/marketplace-kit";
+
 export default async () => {
   const res = await fetch(
     'https://content-download-egs.distro.on.epicgames.com/.well-known/marketplace-kit',
@@ -11,7 +13,7 @@ export default async () => {
     };
   }
 
-  const data = <object>(await res.json());
+  const data = <MarketplaceKitData>(await res.json());
 
   return {
     success: true as const,

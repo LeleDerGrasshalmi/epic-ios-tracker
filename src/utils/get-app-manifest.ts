@@ -1,13 +1,12 @@
-import type { Version } from '../types/altstore-source';
 import type { AppManifestData } from '../types/app-manifest';
 
-export default async (version: Version) => {
+export default async (baseDownloadURL: string, version: string) => {
   const res = await fetch(
-    `${version.downloadURL}manifest.json`,
+    `${baseDownloadURL}manifest.json`,
   );
 
   if (!res.ok) {
-    console.log('failed fetching manifest', version.version, res.status, res.statusText, await res.text());
+    console.log('failed fetching manifest', version, res.status, res.statusText, await res.text());
 
     return {
       success: false as const,
@@ -15,9 +14,11 @@ export default async (version: Version) => {
   }
 
   const data = <AppManifestData>(await res.json());
+  const lastModified = res.headers.get('last-modified');
 
   return {
     success: true as const,
     data,
+    date: lastModified ? new Date(lastModified).toISOString() : null,
   };
 };
