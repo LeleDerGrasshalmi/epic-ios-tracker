@@ -54,6 +54,15 @@
          "beta": false,
          "versions": [
             {
+               "version": "32.11",
+               "date": "2024-11-21T00:00:00.0000000Z",
+               "localizedDescription": "",
+               "downloadURL": "https://content-download-egs.distro.on.epicgames.com/iOS/Org/o-aa83a0a9bc45e98c80c1b1c9d92e9e/prod-fn/Fortnite/88bbcc68-e92c-4c1f-a67f-485dad1eb021/",
+               "size": 482478080,
+               "minOSVersion": "17.6",
+               "buildVersion": "38202817.1.4"
+            },
+            {
                "version": "32.10.1",
                "date": "2024-11-13T00:00:00.0000000Z",
                "localizedDescription": "",
