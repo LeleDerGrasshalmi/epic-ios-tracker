@@ -10,6 +10,7 @@
             "signingCertificateURL": "https://content-download-egs.distro.on.epicgames.com/iOS/signing.cer",
             "encryptionCertificateURL": "https://content-download-egs.distro.on.epicgames.com/iOS/encryption.cer",
             "dynamicLicenseURL": "https://ios-marketplace-public-service-prod.ol.epicgames.com/ios-marketplace/api/public/v1/marketplace/license",
+            "licenseRenewalURL": "https://ios-marketplace-public-service-prod.ol.epicgames.com/ios-marketplace/api/public/v1/marketplace/license/renew",
             "licenseResolutionURL": "https://store.epicgames.com/download/ios?utm_source=ios&utm_campaign=license_resolution"
          }
       }
