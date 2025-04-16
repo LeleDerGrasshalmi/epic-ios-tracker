@@ -406,6 +406,15 @@
          "beta": false,
          "versions": [
             {
+               "version": "1.12",
+               "date": "2025-4-16T00:00:00.0000000Z",
+               "localizedDescription": "",
+               "downloadURL": "https://content-download-egs.distro.on.epicgames.com/iOS/Org/o-98larctxyhn55kqjq5xjb9wzjl9hf9/d08ba86e67ea4299b390717ea0166836/Sideswipe/5b2a5321-89a8-461c-af3c-a7087de35976/",
+               "size": 1559639040,
+               "minOSVersion": "17.4",
+               "buildVersion": "481409"
+            },
+            {
                "version": "1.11.1",
                "date": "2025-3-26T00:00:00.0000000Z",
                "localizedDescription": "",
