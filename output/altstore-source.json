@@ -692,6 +692,15 @@
          "beta": false,
          "versions": [
             {
+               "version": "20.0.0",
+               "date": "2025-05-29T00:00:00.0000000Z",
+               "localizedDescription": "",
+               "downloadURL": "https://content-download-egs.distro.on.epicgames.com/iOS/Org/o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf/d42d7101bb7a41c09a810ee418b7d3d0/4c1e51b2a65b409198e8203171aa98fd/3b827e58-2e1e-4160-9f92-c4c2b400a2f6/",
+               "size": 2412888064,
+               "minOSVersion": "17.6",
+               "buildVersion": "6618"
+            },
+            {
                "version": "19.0.0",
                "date": "2025-05-27T00:00:00.0000000Z",
                "localizedDescription": "",
