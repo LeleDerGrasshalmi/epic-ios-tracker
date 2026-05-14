@@ -10,7 +10,7 @@
    },
    "manifest": {
       "manifestSchemaVersion": "1.0",
-      "distributionPackageRevision": 2,
+      "distributionPackageRevision": 3,
       "appleItemId": "6483539426",
       "bundleId": "com.epicgames.FortniteGame",
       "shortVersionString": "37.31",
@@ -30,6 +30,198 @@
       "hasMessagesExtension": false,
       "isLaunchProhibited": false,
       "variants": [
+         {
+            "publicId": "d48a4402-8fd9-3a9c-adae-627da47facfd",
+            "assetPath": "variant/d48a4402-8fd9-3a9c-adae-627da47facfd.ipa",
+            "installTargets": [
+               {
+                  "device": "iPhone18,5",
+                  "os": "26"
+               }
+            ],
+            "variantDetails": {
+               "compressedSize": 260729261,
+               "uncompressedSize": 510156800,
+               "hashes": [
+                  {
+                     "algorithm": "sha256",
+                     "chunkSize": 10485760,
+                     "encryptedChunkDigests": [
+                        "35f303dda2aa708f0f916a1a7bc47c2502b81a2b719e8927a9e7be34814dbebc",
+                        "acb8724abf30eafb62ccc732efd6634a2897edbbd1097574c399c237f5d91200",
+                        "86e274c1b15daa490c672621e509bbee267b0a55fe4ca0f03a3aff560320740f",
+                        "fbca56df2015236cac51324cd69e5ce28a447094c9a86273676a09787dc0d0f4",
+                        "424a5f0545d75346899a9b8ac6094380b7bfb2c7cf5a03428cc1b6c66978457c",
+                        "c13de574281359350f0ad27a4f27b8528601ddb13c57200ab42bf25f903e42d4",
+                        "af1ce8bab170cbd064b735c12ec82f9aa94257fcf9aab8ddcad075bb8e21d21e",
+                        "d320b47cdf87a246e5769678a5508cf9ef8af75d6e778a6e80bbe1be62d4b104",
+                        "8986a6a2d5b065da41b672e7599952780ac3916a73d98747c59e645be701f842",
+                        "2d194fa11d47da4bb6c5a4fa6a7e3d9237a1236b462802286fb8bb442e66ecf9",
+                        "baf5473553f00804a90c7b6e44c3b254b1e24b57b8b667af08b4757af2ad2cdd",
+                        "b1bc2c8826dc75b70f521daf46d04b0f9fe6601a82c100cad197288509b5a0af",
+                        "9927b90c122c47c54c835e12743925478672b6fe0c56df1482d9ee9cd5f12df8",
+                        "dcbd8658922a07479b3974bc6bf02adf55d23a3afce8ae9eb6df0149331a82c9",
+                        "baf3e3f8b627c4f0ff3d17c74f859a5f4e9705b2197bd3d825679f7de6408f59",
+                        "97ded70d05e5a10a4eb7dd197ab4a3e00f61c7446300eb7b99fcb1571f30b703",
+                        "79096be65c77ec76487530b542f249983848ec50d2ebf3c134b009974bf08f69",
+                        "857b644f7bc7a26716828d7e3e0e1bc047ea098f520b89148430599e3d87526c",
+                        "f2e0ad3dd6446c7ae2dc9433e867b72cd866153325557f165b28d99590735d39",
+                        "69efb63dd6c19eb08d033ddec8e69b72751334711531193015bdb04055d30a40",
+                        "77e2d57aff022ceec69764208627b6b4da59d2806a316341080773bbcd33d10b",
+                        "896574c7eb8bf187dabae8233488a2022c11d010a8ee4e4819685a68d4630330",
+                        "309026c81a6ead20a2d966d9a280f86d726cd2a0071c6ff54c38ad69b35551f3",
+                        "1d09bc8c3ca6bdc87055ec21f33f4fb904879373e63f18c5aaff4465900a2f43",
+                        "e11185468ad1b6c60aa75c948cecc29341e682bc38037ccd9ce46daaca7aaf9e"
+                     ],
+                     "unencryptedChunkDigests": [
+                        "34527c20ba3f50801dcbc08bb2a46b9f3c9395c31bd56cd05a17137122383631",
+                        "01e50c6dbd702ad2e294bd44cd7602f703ad115991dcf450f304bd735424ace7",
+                        "aef1869d40130b9910ac129328ee692ab9a2f77021186e128eeeb6bc8785575b",
+                        "1130eecb9182169d64979e1058f410cb81db197974d67fd58c2aab627fb856d0",
+                        "3f46b990678c476d661d11ffb6bf5b0d687c9f12899f1a8a5950d4405fc43b51",
+                        "6ff027209069f03e9c44cbee297ba78b935272c2d7d4ef9a0ebb790e17853fbd",
+                        "d918d7fbbcbe852f4a092d44e600fe9321746cd42e45525576926781f4457229",
+                        "f03ac82f344feaa8665de27f9ee4a5faa6b314af8c76c1c141ee1b675f8aa46a",
+                        "732ee041f1c43f525a071a1878d2f03d83a3e89bd34698ce8c654d13b14ee2a8",
+                        "22a2cd4abda9bad33981c9a87aa6c061195674a86d82d88dbbfaf470d5265e2c",
+                        "4f76610309bcc0e121445b455e62ca9b57127699437fb3d6e88779cb60ca2748",
+                        "9cf4cd4eff08d9c05e7cd52538de8abe6575d6b048d3cd39d8d5a25e7194c159",
+                        "8de6c967e889deaa8e9732f4e156c75b96b99917449ee2feb3f10b84342462e8",
+                        "64a3df12b661e5790aaa18e2aaea436cebec9d78a05656aff6625b88929a727d",
+                        "dd3c25db867a0363b10b4f65183f4d91ec866dd8b686c9536692cc279913384c",
+                        "6e9936affc770522b4c0c746ec3036b776e8480c4bd647cf49e3db3b0780e47e",
+                        "14398998476af6c00fd23844c28ae95f646eba5a3c20825a03705347d893b4f8",
+                        "d6ff25f2c4b0a1dc34ed86f0679452950b05cde258fc1fcac9ce2d2a7b9887eb",
+                        "6d2477469e174ef88facb052004a3ec691ea2a15df15a998a8214dab9c4509ca",
+                        "d06ae6d0d733ede00336a78fb0421c75645863a4714b89092408ff78ab2507f1",
+                        "9a119d460261ae057ef908e33070c8d5c47b0b018e638e1f6c3c98816c7eabfc",
+                        "b0af3f5aef9d6494163e8565f02b43ea8f605b9c4214d01fea964813be41be06",
+                        "c766d3fe10a0ac0df537b9ae6530defb9d8719ed07cfc489e0ab359868606912",
+                        "4958dd769710ce740676aa8fdcf4e84e1721fa584136ea1be9282e03c474acb2",
+                        "0311429f17f7996294e34b0b7528a31bde9d8831c423f197875d554d609506d5"
+                     ]
+                  }
+               ]
+            }
+         },
+         {
+            "publicId": "3fc70a96-62d5-3b13-a93b-1b1a6015ccbd",
+            "assetPath": "variant/3fc70a96-62d5-3b13-a93b-1b1a6015ccbd.ipa",
+            "installTargets": [
+               {
+                  "device": "iPad16,9",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad16,11",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad16,8",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad16,10",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad17,2-A",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad17,1-B",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad17,2-B",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad17,4-B",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad17,4-A",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad17,3-B",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad17,3-A",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad17,1-A",
+                  "os": "26"
+               }
+            ],
+            "variantDetails": {
+               "compressedSize": 260726818,
+               "uncompressedSize": 510152704,
+               "hashes": [
+                  {
+                     "algorithm": "sha256",
+                     "chunkSize": 10485760,
+                     "encryptedChunkDigests": [
+                        "42ce5e414f8ae1f59a6dcea587c88bad29c18641095f9f921fb4f3c09b9eef55",
+                        "803badda180b4cc2f4814b3e33d1229856e892451005d30874ed956f8940a257",
+                        "b30c7377038c281a19f17cf834168175d5d3e0cb824efd5a8db360202a02823c",
+                        "294d48475cce90e83fd390b52509ec714b08e95cd289c3ae1c0faedbd87fd6bb",
+                        "c565baa0fca3d5bdc7841131c9f5b2d6c71e06c1e2e2796ccc5a9ef6cce1c23c",
+                        "0f8b69028d781ccd412855e91409321179a59b478e8e3a466e28245815a2598c",
+                        "1dfcd7da53c62c52adc4527aeb92b86a74ffd1b8e7dec26361735dc31804f3bb",
+                        "d81e65d34dc8920552bcf6526d9c060310799230c0905f02fc86c883ef385107",
+                        "073a7ccf0fc7c5ad2f12c727b8b4242b98e4c7cf33eb0b9bb20364c9613af9c9",
+                        "3e15dd81588ee7c968942be4b27d540c09aca47ce975bae4ab8994842c70223d",
+                        "8836614a6c9507aa2976034363fae9d45c3ede46327bc9f2d96a84e3d8848606",
+                        "8abf47abd7b76b2f0a6dafbb745936b3e0defb48816b9942c5e8acdace28460e",
+                        "ef0b65ae7fa4057e79a91b2f384799ea32e06a3f137b5f1668b56708f4a55956",
+                        "2cf44d4c6c0055d03a6fd0838b4a3d7c949b34a52bb4f6ee6b4680e47599887d",
+                        "6a0aa0203c7c339d5a332ff12ea033bc88c41d0d70652791360061221ffc2526",
+                        "16498049649dade614482bf362b7e454ea9f58d402a2df3259394fe8572af020",
+                        "c9a41e6f027030fe5c84cdb7c1891c9b239f27a2e8c22a8445cfb71eb9043256",
+                        "243eb5d0a954bdafa828d81084465dc25af89d46dadf7116dd7d8d2690a319f4",
+                        "723c2d8bd9c98083fcb48ad838036d5e2bf91e071743c65e0115566abd2b1229",
+                        "73f2a4aa707aaafb34d9bd8ae5257542b59406b33c18588dcb7a020699022769",
+                        "dd4c405b1e0e3989bd969fdfde3f97b2eb23e5fc393b76076e8d6319b0210b19",
+                        "28699953881ac941a27bb463671d6d1e6e8698eaa3142889d9fd38fdca498ff9",
+                        "9fc402331ca77cd4df354720deb370816770034ffc8a1a799a195925ab3fd6e4",
+                        "32be03cc0928946c1ffaba1c8639d14f5e5389759f372c670ef2e48ce4fedf95",
+                        "60b9cb6e037928f7196916fbc2cb3b898d9b8b7912bebf388ebd77e242b6039b"
+                     ],
+                     "unencryptedChunkDigests": [
+                        "d54bee1e94737dbb63de192dc28d0021f446020117b963da57193cec94614069",
+                        "acfbfffcd6ff6ef8b0eb61b533cae20531e31eeb43b2ad503305bed35214ceaa",
+                        "bbf723ebdc9cbf6826cc526ba04903f0b3876b9b072db6d39da623b43d8cf9ab",
+                        "efaeccf47912626dd3dfa1106a96de85603c1980ad9fc876f28256059f6441b4",
+                        "c79cb868e140758c7b33cecdeb8fed99cd09c6812fe3100fa249dcee5ee567e3",
+                        "ba720463fa20723fd872a3424db352be5c8752fd011f59d2d7dda9c1b185b1bf",
+                        "a7f0e9eb69a74d9261973b1cdbab7c259277eba4c33acf97c59c154defd5e612",
+                        "5b09c2992aba9ce5aa430bf3ec5ea12ee79fb5c5c921cefb659ff2332cb50c30",
+                        "8fb9e2a367774b8c0a2d521b80be25c07bf3bce558b078dbc0548aeb18ec19b9",
+                        "f45ea771164bc717552dc2078ca9c80487d9e475feaf18931e5bede5c968d443",
+                        "ed2e14f5f4a835a8b8e8ba0e910c37393bd1fc175500be77906b3d8b08f4070f",
+                        "799c790116b95a43207c3cfeb53ee9a712f4ae91ba344de89b7fde723f55542d",
+                        "baef01d80fb68e0ed6a564ff7886c8ad92fba0f76756140b7c821cfe47c1fbb3",
+                        "26ea3c8995132d09f0e2e5e6110b85e808231bc9238670d84c3c750ae0464f9e",
+                        "e291b0bfa4bbe6030b4c3d8a6d4a2ec940e3e010b324756e5bcec06c9a89537d",
+                        "d1326dff9bd6596a2b96af63ac265d80856a2228f89828e2b5843f4e19ed7fcc",
+                        "374544e186733e9f815f9f8ee9b02ab7fb43a3542fc7a7eb0cee4e6937003899",
+                        "e00a34481edd13fc1027f9a89d8920c31922a163dbe6cc8e4aabd5aca1932286",
+                        "1d6757e38b82e4695300c61ef9cd07800274e36c077104a10d42c997ea4a9a99",
+                        "6f9ec933692f0e62445cf37920bd33b389cbf1127061971425782124583970e3",
+                        "08a61b1fe14342f2a351ce50a3a8c1e7ebabae0bb862d1bb651593468991f993",
+                        "6907466423cd46ba6a573ab872409aaefea98aea8ecba6381b19aca6569e9cfa",
+                        "ba40a5196f93a575b06dc8f84595f526d07d863f3837b0ba3fe2443f1e8c85aa",
+                        "d91c98f206917b8e22b1dd08d77cc22c18c545581134869f63f01623962e54e2",
+                        "ab44a8f4a49c9a55ab2d6685fa25616826c404ad25333513c9a0473dcb6b6775"
+                     ]
+                  }
+               ]
+            }
+         },
          {
             "publicId": "f762549e-efb4-3e4b-89b6-b960fd7a8618",
             "assetPath": "variant/f762549e-efb4-3e4b-89b6-b960fd7a8618.ipa",
@@ -2009,55 +2201,6 @@
       ],
       "deltas": [
          {
-            "publicId": "d137c659-f1d4-3f66-b990-eb64169f9463",
-            "assetPath": "delta/d137c659-f1d4-3f66-b990-eb64169f9463.ipa",
-            "sourceVariant": {
-               "installTargets": [
-                  {
-                     "device": "iPhone11,8",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone12,1",
-                     "os": "18"
-                  }
-               ],
-               "appleVersionId": "877292417",
-               "version": "37.10"
-            },
-            "targetVariantAssetPath": "variant/f762549e-efb4-3e4b-89b6-b960fd7a8618.ipa",
-            "deltaDetails": {
-               "compressedSize": 83724799,
-               "uncompressedSize": 83756032,
-               "hashes": [
-                  {
-                     "algorithm": "sha256",
-                     "chunkSize": 10485760,
-                     "encryptedChunkDigests": [
-                        "698506532e95e909191cbcab5ed43f0ed018ea8667f11604859e2898e5aa2b7d",
-                        "ccf8707a1e3558cc117ad36f98c5d9dc1682589f5617abb532aeef50c2609e6f",
-                        "b7f683580d7dea14de0b7bf89ec7ae1d508170499323c792e18128f06122e5bb",
-                        "e608727bed584fc816867d8f6d8adf8d8ded9bb667c2c8a5a943b540c8186f27",
-                        "79aa5f8b98a22a21e78086feb63c9ea4e262b322546b55c1fb68309d9014083c",
-                        "e4d9d7d4e5d310089ecd2ff90d7a8bc1d51e13115b1b74ab1abe13ae3ea14221",
-                        "9a340e287aa007cf212d176179c8326caac8bee74906c9580e48c142daa4c450",
-                        "a9ecc433a3d8074aea1c50b30fa986f6e1de7ac68920ad76ab5fda288106eb2a"
-                     ],
-                     "unencryptedChunkDigests": [
-                        "a99522ce51010b862970d0d7c9cc481b851965e099fe7e06d070ced75a522690",
-                        "38dd89f0d0598125a1f8e5e6fcf596b815bd0be7bc6bdc9ee106368a52cfd4d1",
-                        "34cc6a8bcc657cf94492f71665fed54d97a2831a152451421a6b1a2c077437e3",
-                        "2428ba2cad4bd313574c06fcfe91b5d78ac84c71095873dc3305162f5da43b40",
-                        "3c6e478671605f752e8cdd8c58d2ebf06c47ba4a12e090ad9f2084a84ae2a608",
-                        "7603d86727559fc10bb81346a88a87d8161bbfb940e0769366dfbd8410f54069",
-                        "e30bd98bd2b20439b07145602ea7f7ce2f9dadee7d426aa0e16906532043e933",
-                        "776a9e8f689beda3dcbf0f11dffddfe9a323480b1447a1d01347148e32c51446"
-                     ]
-                  }
-               ]
-            }
-         },
-         {
             "publicId": "6298e09d-7d7c-3bf4-9f6f-9f3a4df2e4ec",
             "assetPath": "delta/6298e09d-7d7c-3bf4-9f6f-9f3a4df2e4ec.ipa",
             "sourceVariant": {
@@ -2109,6 +2252,55 @@
                         "efdff39c5e7c3ed8c1f8b0fc14b5a881a5a7ba2ffcc6dc8d7b1294e7eb168363",
                         "b86a11c3dd1e73048d3ff5d20a20ce893759298d6a129b4190f7f523f11aa2e8",
                         "3e2c22a0bf60f62685dce7806034ae89a843116a17310696b93214112c402162"
+                     ]
+                  }
+               ]
+            }
+         },
+         {
+            "publicId": "d137c659-f1d4-3f66-b990-eb64169f9463",
+            "assetPath": "delta/d137c659-f1d4-3f66-b990-eb64169f9463.ipa",
+            "sourceVariant": {
+               "installTargets": [
+                  {
+                     "device": "iPhone11,8",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone12,1",
+                     "os": "18"
+                  }
+               ],
+               "appleVersionId": "877292417",
+               "version": "37.10"
+            },
+            "targetVariantAssetPath": "variant/f762549e-efb4-3e4b-89b6-b960fd7a8618.ipa",
+            "deltaDetails": {
+               "compressedSize": 83724799,
+               "uncompressedSize": 83756032,
+               "hashes": [
+                  {
+                     "algorithm": "sha256",
+                     "chunkSize": 10485760,
+                     "encryptedChunkDigests": [
+                        "698506532e95e909191cbcab5ed43f0ed018ea8667f11604859e2898e5aa2b7d",
+                        "ccf8707a1e3558cc117ad36f98c5d9dc1682589f5617abb532aeef50c2609e6f",
+                        "b7f683580d7dea14de0b7bf89ec7ae1d508170499323c792e18128f06122e5bb",
+                        "e608727bed584fc816867d8f6d8adf8d8ded9bb667c2c8a5a943b540c8186f27",
+                        "79aa5f8b98a22a21e78086feb63c9ea4e262b322546b55c1fb68309d9014083c",
+                        "e4d9d7d4e5d310089ecd2ff90d7a8bc1d51e13115b1b74ab1abe13ae3ea14221",
+                        "9a340e287aa007cf212d176179c8326caac8bee74906c9580e48c142daa4c450",
+                        "a9ecc433a3d8074aea1c50b30fa986f6e1de7ac68920ad76ab5fda288106eb2a"
+                     ],
+                     "unencryptedChunkDigests": [
+                        "a99522ce51010b862970d0d7c9cc481b851965e099fe7e06d070ced75a522690",
+                        "38dd89f0d0598125a1f8e5e6fcf596b815bd0be7bc6bdc9ee106368a52cfd4d1",
+                        "34cc6a8bcc657cf94492f71665fed54d97a2831a152451421a6b1a2c077437e3",
+                        "2428ba2cad4bd313574c06fcfe91b5d78ac84c71095873dc3305162f5da43b40",
+                        "3c6e478671605f752e8cdd8c58d2ebf06c47ba4a12e090ad9f2084a84ae2a608",
+                        "7603d86727559fc10bb81346a88a87d8161bbfb940e0769366dfbd8410f54069",
+                        "e30bd98bd2b20439b07145602ea7f7ce2f9dadee7d426aa0e16906532043e933",
+                        "776a9e8f689beda3dcbf0f11dffddfe9a323480b1447a1d01347148e32c51446"
                      ]
                   }
                ]
@@ -2213,47 +2405,6 @@
             }
          },
          {
-            "publicId": "0b25555f-67a1-3a3f-8585-4f482706448b",
-            "assetPath": "delta/0b25555f-67a1-3a3f-8585-4f482706448b.ipa",
-            "sourceVariant": {
-               "installTargets": [
-                  {
-                     "device": "iPhone11,8",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone12,1",
-                     "os": "18"
-                  }
-               ],
-               "appleVersionId": "878043171",
-               "version": "37.30"
-            },
-            "targetVariantAssetPath": "variant/f762549e-efb4-3e4b-89b6-b960fd7a8618.ipa",
-            "deltaDetails": {
-               "compressedSize": 40662957,
-               "uncompressedSize": 40694784,
-               "hashes": [
-                  {
-                     "algorithm": "sha256",
-                     "chunkSize": 10485760,
-                     "encryptedChunkDigests": [
-                        "d38ed14419765f277b5c73a593e02fe841868dd76bad978c38aee02113958bd4",
-                        "683b4b457729207a1613bcfcc6f8aa2f68af4f019b2ca7768dbad7e4eaf14699",
-                        "eee63490466f7335aab06914d9eb12a1c79f146bf4cca20a850db5d4f404bd5b",
-                        "dc557678e33105c74515e7aa152d88c62d5a3e8040dfffbf9deca1cf652db1d4"
-                     ],
-                     "unencryptedChunkDigests": [
-                        "95a04d057f24cda1a5790537277a5ff5cb4cf1ef761edfb001c7f74e2f88d4c9",
-                        "6e317e38746a542a0cc42d68471e0baa62dad7b5506e29bb32530291f5a7f750",
-                        "4c1c83ee19f15fd75f3e901765e36f355c1548c3be36224db75c1c0a749d2c5a",
-                        "52cdaa206a510b36aa409582dfe0d24b7d1c19d1d65082ea8d4a6b4fd01c718a"
-                     ]
-                  }
-               ]
-            }
-         },
-         {
             "publicId": "81d5f612-e4ae-3bc9-ab02-93a0872061d5",
             "assetPath": "delta/81d5f612-e4ae-3bc9-ab02-93a0872061d5.ipa",
             "sourceVariant": {
@@ -2297,6 +2448,47 @@
                         "930e75161971bff8a5415b58c71e351ed857760ecf49b6004f99152bc885737f",
                         "88070ae8f7b28c0ab0bea7236b69e4c37fa433fdb8c17a7c1f1ecd56016ec792",
                         "cf615774d7a877e9338943157ee13818c6547ed1d34f50cc2b2c660124d5a5ac"
+                     ]
+                  }
+               ]
+            }
+         },
+         {
+            "publicId": "0b25555f-67a1-3a3f-8585-4f482706448b",
+            "assetPath": "delta/0b25555f-67a1-3a3f-8585-4f482706448b.ipa",
+            "sourceVariant": {
+               "installTargets": [
+                  {
+                     "device": "iPhone11,8",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone12,1",
+                     "os": "18"
+                  }
+               ],
+               "appleVersionId": "878043171",
+               "version": "37.30"
+            },
+            "targetVariantAssetPath": "variant/f762549e-efb4-3e4b-89b6-b960fd7a8618.ipa",
+            "deltaDetails": {
+               "compressedSize": 40662957,
+               "uncompressedSize": 40694784,
+               "hashes": [
+                  {
+                     "algorithm": "sha256",
+                     "chunkSize": 10485760,
+                     "encryptedChunkDigests": [
+                        "d38ed14419765f277b5c73a593e02fe841868dd76bad978c38aee02113958bd4",
+                        "683b4b457729207a1613bcfcc6f8aa2f68af4f019b2ca7768dbad7e4eaf14699",
+                        "eee63490466f7335aab06914d9eb12a1c79f146bf4cca20a850db5d4f404bd5b",
+                        "dc557678e33105c74515e7aa152d88c62d5a3e8040dfffbf9deca1cf652db1d4"
+                     ],
+                     "unencryptedChunkDigests": [
+                        "95a04d057f24cda1a5790537277a5ff5cb4cf1ef761edfb001c7f74e2f88d4c9",
+                        "6e317e38746a542a0cc42d68471e0baa62dad7b5506e29bb32530291f5a7f750",
+                        "4c1c83ee19f15fd75f3e901765e36f355c1548c3be36224db75c1c0a749d2c5a",
+                        "52cdaa206a510b36aa409582dfe0d24b7d1c19d1d65082ea8d4a6b4fd01c718a"
                      ]
                   }
                ]
@@ -2943,6 +3135,51 @@
             }
          },
          {
+            "publicId": "fa3d1f6d-6c15-316e-9749-0d66b4b9b78c",
+            "assetPath": "delta/fa3d1f6d-6c15-316e-9749-0d66b4b9b78c.ipa",
+            "sourceVariant": {
+               "installTargets": [
+                  {
+                     "device": "iPhone14,6",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone12,8",
+                     "os": "18"
+                  }
+               ],
+               "appleVersionId": "877597975",
+               "version": "37.20"
+            },
+            "targetVariantAssetPath": "variant/4d97b0e7-9025-31e2-bff3-e5db0454c24c.ipa",
+            "deltaDetails": {
+               "compressedSize": 58740931,
+               "uncompressedSize": 58774528,
+               "hashes": [
+                  {
+                     "algorithm": "sha256",
+                     "chunkSize": 10485760,
+                     "encryptedChunkDigests": [
+                        "60e36ed00d323a350838508d2dcf070c8a4776ae41d5028f1ef747201516e744",
+                        "7a24bc1180222cb3304c5fc39c5df5b4e7ad33d21465678de0049232da51c30a",
+                        "45242d3e8a859159b40f71341a2af7de54dd782525bfd2c81a900773b589ef4c",
+                        "dd52c9ab14b42f33b112e03c2b70987c914b8c6d3ee88b6c1e92098baf02208d",
+                        "2ad6bc63c7cc760983ed623b7ebac64b9de62280d60c3ed2f910c0fdce189382",
+                        "7050d5e62426be8122f085ce192dab3af21ba6371366799f1470565d05f3313b"
+                     ],
+                     "unencryptedChunkDigests": [
+                        "753e3e1f21bc8dda91a2ec8100b2a222ff762d1bff378a6bf88c339de6cbae1e",
+                        "2f678bfd5f871e041678d818c076a1435d1c6ac5105a8190845b13ff507426da",
+                        "bce5ee9017adbf594244e610067d48adcc0d8c91cfe33de07c48dc2eb9088a25",
+                        "405c9dca1f3f1a8673faaf231481007a65e95ea085840884a336be23767dd2b3",
+                        "515cdc3a61abed5f99ebe3627438ece82c5c6037b683b6bc7220bbf6554e7b59",
+                        "4d124dc16ef5625db3ab83dce4f52d9e46ad2846bd1797859ef85043f3f6915e"
+                     ]
+                  }
+               ]
+            }
+         },
+         {
             "publicId": "54eb727f-430a-332e-9d05-919e537e0237",
             "assetPath": "delta/54eb727f-430a-332e-9d05-919e537e0237.ipa",
             "sourceVariant": {
@@ -2996,8 +3233,8 @@
             }
          },
          {
-            "publicId": "fa3d1f6d-6c15-316e-9749-0d66b4b9b78c",
-            "assetPath": "delta/fa3d1f6d-6c15-316e-9749-0d66b4b9b78c.ipa",
+            "publicId": "f972f3cf-9a03-39b5-8f22-66971a33082d",
+            "assetPath": "delta/f972f3cf-9a03-39b5-8f22-66971a33082d.ipa",
             "sourceVariant": {
                "installTargets": [
                   {
@@ -3009,32 +3246,28 @@
                      "os": "18"
                   }
                ],
-               "appleVersionId": "877597975",
-               "version": "37.20"
+               "appleVersionId": "878043171",
+               "version": "37.30"
             },
             "targetVariantAssetPath": "variant/4d97b0e7-9025-31e2-bff3-e5db0454c24c.ipa",
             "deltaDetails": {
-               "compressedSize": 58740931,
-               "uncompressedSize": 58774528,
+               "compressedSize": 40662983,
+               "uncompressedSize": 40694784,
                "hashes": [
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
                      "encryptedChunkDigests": [
-                        "60e36ed00d323a350838508d2dcf070c8a4776ae41d5028f1ef747201516e744",
-                        "7a24bc1180222cb3304c5fc39c5df5b4e7ad33d21465678de0049232da51c30a",
-                        "45242d3e8a859159b40f71341a2af7de54dd782525bfd2c81a900773b589ef4c",
-                        "dd52c9ab14b42f33b112e03c2b70987c914b8c6d3ee88b6c1e92098baf02208d",
-                        "2ad6bc63c7cc760983ed623b7ebac64b9de62280d60c3ed2f910c0fdce189382",
-                        "7050d5e62426be8122f085ce192dab3af21ba6371366799f1470565d05f3313b"
+                        "a6c0bd7254bc8d4ac6d769619c80fbebe201bcb9b6542f01b1e9ba487d547657",
+                        "503e4dee599f95674bf09b569045c11c4bfc1e76363a98a89b15371ff9b38c0a",
+                        "560e5c96e3fa347b6144a48b18c753124c18d3326852ddab34762bd255938fef",
+                        "3d26630e26c5c8d200a04b513d81d142f2986bf128c1452f53baf3228c7c74f2"
                      ],
                      "unencryptedChunkDigests": [
-                        "753e3e1f21bc8dda91a2ec8100b2a222ff762d1bff378a6bf88c339de6cbae1e",
-                        "2f678bfd5f871e041678d818c076a1435d1c6ac5105a8190845b13ff507426da",
-                        "bce5ee9017adbf594244e610067d48adcc0d8c91cfe33de07c48dc2eb9088a25",
-                        "405c9dca1f3f1a8673faaf231481007a65e95ea085840884a336be23767dd2b3",
-                        "515cdc3a61abed5f99ebe3627438ece82c5c6037b683b6bc7220bbf6554e7b59",
-                        "4d124dc16ef5625db3ab83dce4f52d9e46ad2846bd1797859ef85043f3f6915e"
+                        "c3cc7ea62991b6b3c48dbd7850c869244d11010e50b078d424abbf6b9cc94ea1",
+                        "c5b6fa03ea9a6268be0d66db5d8795b5e6cb6f5b98f953615005f7bd7a61dcb2",
+                        "5d5c0e5f928cdd83552069b3ead8cf3cf8c565efa341d02d080d61d4fcd314ae",
+                        "498a3b86f25d4a14a9722976a92764f3da2855a65a117cab3cabd7d58dbd06e8"
                      ]
                   }
                ]
@@ -3084,47 +3317,6 @@
                         "5311db7c3169fbdad7ad3081ab3f953e1c2c1468f7b0cd2d14f10cfa89c0047f",
                         "0ef182929e5003b76b43765085403ceb297c45cd0d822709e3bf82dda93515ca",
                         "4279550c0a7056ac473c6ed45b0f51bdb3e4b27c7636107007a272b34539f6bf"
-                     ]
-                  }
-               ]
-            }
-         },
-         {
-            "publicId": "f972f3cf-9a03-39b5-8f22-66971a33082d",
-            "assetPath": "delta/f972f3cf-9a03-39b5-8f22-66971a33082d.ipa",
-            "sourceVariant": {
-               "installTargets": [
-                  {
-                     "device": "iPhone14,6",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone12,8",
-                     "os": "18"
-                  }
-               ],
-               "appleVersionId": "878043171",
-               "version": "37.30"
-            },
-            "targetVariantAssetPath": "variant/4d97b0e7-9025-31e2-bff3-e5db0454c24c.ipa",
-            "deltaDetails": {
-               "compressedSize": 40662983,
-               "uncompressedSize": 40694784,
-               "hashes": [
-                  {
-                     "algorithm": "sha256",
-                     "chunkSize": 10485760,
-                     "encryptedChunkDigests": [
-                        "a6c0bd7254bc8d4ac6d769619c80fbebe201bcb9b6542f01b1e9ba487d547657",
-                        "503e4dee599f95674bf09b569045c11c4bfc1e76363a98a89b15371ff9b38c0a",
-                        "560e5c96e3fa347b6144a48b18c753124c18d3326852ddab34762bd255938fef",
-                        "3d26630e26c5c8d200a04b513d81d142f2986bf128c1452f53baf3228c7c74f2"
-                     ],
-                     "unencryptedChunkDigests": [
-                        "c3cc7ea62991b6b3c48dbd7850c869244d11010e50b078d424abbf6b9cc94ea1",
-                        "c5b6fa03ea9a6268be0d66db5d8795b5e6cb6f5b98f953615005f7bd7a61dcb2",
-                        "5d5c0e5f928cdd83552069b3ead8cf3cf8c565efa341d02d080d61d4fcd314ae",
-                        "498a3b86f25d4a14a9722976a92764f3da2855a65a117cab3cabd7d58dbd06e8"
                      ]
                   }
                ]
@@ -4554,6 +4746,143 @@
             }
          },
          {
+            "publicId": "0f9fb286-9ca0-3ca1-ae84-742a664bf084",
+            "assetPath": "delta/0f9fb286-9ca0-3ca1-ae84-742a664bf084.ipa",
+            "sourceVariant": {
+               "installTargets": [
+                  {
+                     "device": "iPhone14,7",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone17,2",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone15,4",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone14,5",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone17,4",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone12,5",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone14,3",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone13,4",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone11,6",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone13,2",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone12,3",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone16,1",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone15,2",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone11,4",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone11,2",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone15,5",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone14,8",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone17,3",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone17,5",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone14,4",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone16,2",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone15,3",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone13,3",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone14,2",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone17,1",
+                     "os": "18"
+                  },
+                  {
+                     "device": "iPhone13,1",
+                     "os": "18"
+                  }
+               ],
+               "appleVersionId": "878043171",
+               "version": "37.30"
+            },
+            "targetVariantAssetPath": "variant/9d4db2c2-2159-34c6-8ede-c323cf82f90e.ipa",
+            "deltaDetails": {
+               "compressedSize": 40663146,
+               "uncompressedSize": 40694784,
+               "hashes": [
+                  {
+                     "algorithm": "sha256",
+                     "chunkSize": 10485760,
+                     "encryptedChunkDigests": [
+                        "b307cefef51b2c12017fd4dde0e091ac1a1440866c9fca7f65b3c85c2be8c7df",
+                        "21f26141c284c059613576e2da5d5eb79139a22bd9eab59d070ba6da1ac5541d",
+                        "d8f365cea8e57ea7f836e163df762087c61795f0fbf9193ef7d39425e45d2ca6",
+                        "2c858f1c9db613385f268ef90ce706a843ebe75a2552510977f5a9ab775f3b4e"
+                     ],
+                     "unencryptedChunkDigests": [
+                        "9ec8f4ed61dca49331e204083338c327ce3d5e00da0476087f3e97580c57288d",
+                        "e1ddf6cd15a8bb330d79bcee5568ad96f7e34498849d0d97feb6b5355d33de1d",
+                        "59e831b70d748540d0c6057fcd69fc938ce3c8cacb8b741380b7791f63f39fe7",
+                        "a1defb0db7572b9ae2017fefa519987a828a383a239e367f0b3aa3d2b3ac4d38"
+                     ]
+                  }
+               ]
+            }
+         },
+         {
             "publicId": "554f0a77-06ab-3a2a-8926-fa3ac516a1f1",
             "assetPath": "delta/554f0a77-06ab-3a2a-8926-fa3ac516a1f1.ipa",
             "sourceVariant": {
@@ -4749,143 +5078,6 @@
                         "257862792ede93331ac142b109fb441c3e59f5f508cc22afebea48d8d0306ec7",
                         "58a1b8712a8b8b5ef6bfdf2c3a1557025b0c1945db9ff7384bc0f1a30f711d00",
                         "f6c29e596c57e235fc76cb95dbdc2390504a5a7fd8ce70618b8c5d3de8c3fe5e"
-                     ]
-                  }
-               ]
-            }
-         },
-         {
-            "publicId": "0f9fb286-9ca0-3ca1-ae84-742a664bf084",
-            "assetPath": "delta/0f9fb286-9ca0-3ca1-ae84-742a664bf084.ipa",
-            "sourceVariant": {
-               "installTargets": [
-                  {
-                     "device": "iPhone14,7",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone17,2",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone15,4",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone14,5",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone17,4",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone12,5",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone14,3",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone13,4",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone11,6",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone13,2",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone12,3",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone16,1",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone15,2",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone11,4",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone11,2",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone15,5",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone14,8",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone17,3",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone17,5",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone14,4",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone16,2",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone15,3",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone13,3",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone14,2",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone17,1",
-                     "os": "18"
-                  },
-                  {
-                     "device": "iPhone13,1",
-                     "os": "18"
-                  }
-               ],
-               "appleVersionId": "878043171",
-               "version": "37.30"
-            },
-            "targetVariantAssetPath": "variant/9d4db2c2-2159-34c6-8ede-c323cf82f90e.ipa",
-            "deltaDetails": {
-               "compressedSize": 40663146,
-               "uncompressedSize": 40694784,
-               "hashes": [
-                  {
-                     "algorithm": "sha256",
-                     "chunkSize": 10485760,
-                     "encryptedChunkDigests": [
-                        "b307cefef51b2c12017fd4dde0e091ac1a1440866c9fca7f65b3c85c2be8c7df",
-                        "21f26141c284c059613576e2da5d5eb79139a22bd9eab59d070ba6da1ac5541d",
-                        "d8f365cea8e57ea7f836e163df762087c61795f0fbf9193ef7d39425e45d2ca6",
-                        "2c858f1c9db613385f268ef90ce706a843ebe75a2552510977f5a9ab775f3b4e"
-                     ],
-                     "unencryptedChunkDigests": [
-                        "9ec8f4ed61dca49331e204083338c327ce3d5e00da0476087f3e97580c57288d",
-                        "e1ddf6cd15a8bb330d79bcee5568ad96f7e34498849d0d97feb6b5355d33de1d",
-                        "59e831b70d748540d0c6057fcd69fc938ce3c8cacb8b741380b7791f63f39fe7",
-                        "a1defb0db7572b9ae2017fefa519987a828a383a239e367f0b3aa3d2b3ac4d38"
                      ]
                   }
                ]

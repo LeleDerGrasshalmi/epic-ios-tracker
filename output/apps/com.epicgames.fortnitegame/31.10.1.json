@@ -10,7 +10,7 @@
    },
    "manifest": {
       "manifestSchemaVersion": "1.0",
-      "distributionPackageRevision": 2,
+      "distributionPackageRevision": 3,
       "appleItemId": "6483539426",
       "bundleId": "com.epicgames.FortniteGame",
       "shortVersionString": "31.10.1",
@@ -30,6 +30,1090 @@
       "hasMessagesExtension": false,
       "isLaunchProhibited": false,
       "variants": [
+         {
+            "publicId": "11234215-0aa5-3d95-a93c-457dfe8d495e",
+            "assetPath": "variant/11234215-0aa5-3d95-a93c-457dfe8d495e.ipa",
+            "installTargets": [
+               {
+                  "device": "iPad13,11",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad12,1",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad16,3-B",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad14,3-A",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad14,2",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad13,6",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad14,3-B",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad14,6-A",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad13,5",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad11,4",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad11,3",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad17,1-A",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad14,3-A",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad15,8",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad15,7",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad16,6-B",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad8,3",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad8,12",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad8,2",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad16,4-A",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad8,9",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad17,1-B",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad11,4",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad13,7",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad14,5-B",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad12,2",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad17,4-A",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad12,1",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad15,8",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad8,12",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad13,6",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad16,6-A",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad16,6-B",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad8,2",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad8,1",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad8,11",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad16,3-A",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad8,9",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad8,8",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad13,18",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad13,8",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad14,5-B",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad17,4-B",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad13,10",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad14,5-A",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad11,6",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad12,2",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad8,11",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad8,10",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad13,7",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad8,1",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad13,18",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad16,6-A",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad8,8",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad16,3-B",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad13,10",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad8,7",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad13,19",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad16,3-A",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad15,3",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad17,2-A",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad14,5-A",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad11,7",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad13,1",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad13,11",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad8,10",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad13,9",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad13,8",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad16,5-B",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad13,19",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad8,7",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad8,6",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad13,16",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad16,1",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad17,2-B",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad15,4",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad15,3",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad13,2",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad14,4-B",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad13,1",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad14,11",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad16,8",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad13,9",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad16,5-A",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad16,5-B",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad8,5",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad11,1",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad7,12",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad13,16",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad13,17",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad16,11",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad14,4-B",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad13,2",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad15,5",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad14,4-A",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad16,1",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad16,2",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad14,8",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad15,4",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad16,9",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad13,17",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad16,5-A",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad8,6",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad8,4",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad11,2",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad16,4-B",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad7,11",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad16,4-A",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad16,10",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad14,4-A",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad15,6",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad16,2",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad11,1",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad14,1",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad17,3-A",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad14,6-B",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad13,4",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad15,5",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad14,9",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad14,8",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad14,10",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad8,5",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad16,4-B",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad14,1",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad13,5",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad14,3-B",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad14,6-B",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad13,4",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad14,6-A",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad17,3-B",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad11,3",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad14,2",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad11,2",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad14,9",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad15,7",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad14,10",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad15,6",
+                  "os": "26"
+               },
+               {
+                  "device": "iPad14,11",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad8,4",
+                  "os": "18"
+               },
+               {
+                  "device": "iPad8,3",
+                  "os": "26"
+               }
+            ],
+            "variantDetails": {
+               "compressedSize": 253000626,
+               "uncompressedSize": 494729216,
+               "hashes": [
+                  {
+                     "algorithm": "sha256",
+                     "chunkSize": 10485760,
+                     "encryptedChunkDigests": [
+                        "917ccfe64a51d2079c0de85b2f4bf51ab77976dbeeb089bb5ffac03cddfb2104",
+                        "eabff7c8bcc5b8226bb4c1b61170f3cdbd2c1ad90e58b6b4efa0fee63649b3a3",
+                        "19b522a2ab95729264832e351eadc7c38fdb8d8edfb2b568382f295e223c7210",
+                        "fba89af3215134337c63e0f02e646bb50fffdffa1a637db24cd42e66a9d8abba",
+                        "9b22d6143cb8ccc9564725cb95a569cb5fec349530f30168b121fe7d158bac02",
+                        "6fa69aa6c4c521580f8b743aea38b0fd655be5716e91624152def99bcdd49fa9",
+                        "e96dae035f3d1d173b29af9f6efe3d5eb8cbd7d905e2004eeae8324e37ddfcdb",
+                        "65a3861e15751d1caa06ef29271ed3187e5f1d21485ed0ff143ebc302ea369e1",
+                        "b87da3de265121e0ffb724156e4e759ba86e2ebfcf9bb7b820c9f19aadc4ed64",
+                        "97ef6fc6fc5c0a13d24ccc5b9c4ca0d96eb487876908b88a6bab2fb866e8a730",
+                        "f86ca0a0cd3e38657baa0fb69d79003d8bf2ae0caf66c94b82c25559d941d06a",
+                        "25abc8a3c802bfaf736e79393355f7cc1a81ddcaae345e838ec20689c9385e33",
+                        "299f1368803fc41de40a5d28f541bc6e3064a7f499f0ddce9b9735fb9a2b0bff",
+                        "6b999f42d1588df459f340639393fc587e045bc9f751647f82436c90640f9b9a",
+                        "0f8d613268807c5dfa0f60d8e9956127235dc04b547897b42714fc4738dee12c",
+                        "68004cb4359fb5028ebf0fb3b7d937855b10df4b589c1c857ee7899e9239d42f",
+                        "ad11d54216a35e7f5a60f40728e8f37bc0b0d149b26f0f91109dad48e1b9bc91",
+                        "4add1e9981bb936d6adca69b8e2aa4e5f3ed1e1f46210c5cde73b5dfada5374f",
+                        "a740efacc9e9e768f5c3bb6b0778e71909b03baf5f09a8eb636e54be9a3127ad",
+                        "4c6e518a966bbbdd864bc408120e54c2944a72aeb922d325a24998d09c86c171",
+                        "b0eab601a35d81fd9123d02421946b90bbeb827044708ead15f87194747df462",
+                        "81465a927044049356572dbd11a228a0ef26a8b83bbc9aa0ee6120d73d2ecd0d",
+                        "84a6fa233109ab753b92eab4e225222965a6623e05c63731a1cb3e7751baa8bd",
+                        "13218f55ca10f6c35f0bcebfba0e91fabc0cd619ed91e16cd9bb17ba738bc073",
+                        "95de678a2d1e201574b24419e075c425d8227003cc5143f082c0febb7daca3bb"
+                     ],
+                     "unencryptedChunkDigests": [
+                        "98a2ae077cc04279e04a348d119a2802cb10fcd00db6e90be0771614154d8965",
+                        "d85dedb3b30a6c455fff5b933243411f1c2fe7d3284503364fd2a9f8c74b82f7",
+                        "6ecc6a202409be1c324dc3f6c025f022e13f7f617ba2573dbe1ec28d90fb0a11",
+                        "04cb53429a9deaccd57a56d6cffe6a836c0d48d248a4aa4e5421cf257b663c85",
+                        "39bd40687df7d641806634a80c8e4b2b684f79d657e2f7aceedcfc21368babd5",
+                        "150b1390e85c5ed91060f09ce190ba89e948470845979425cf6f7f752650e57c",
+                        "436d516709132a84ec152c23a6b3fe9e3072ba6230e2fa3692d80c083da4f52b",
+                        "d4d93f3d6010ecc27e2b148998efed7dc153def4d2adfdd3783874ed49be198a",
+                        "9d7d85a01fe03e7cb5999264b904288db53354cbea6a4905c65e60028f53e1fb",
+                        "9f01a12fe5ed5de0a1b868842492e5a672efb30afae2b8ee70d8740da9b225e6",
+                        "991892f6c1ce1c3374dc65865723fe5c722e7a544149a715c082716e38bdbac2",
+                        "a27e1f88f0aacea58c85b0faa0e7b6df20dda618573d541adc398be63fc67702",
+                        "44ef0be3ff4a78d1b37bf42045a47ae1da068d04fe2596cd2bc911135aceb59e",
+                        "de6a416fe28ff82d87d81ee3827395d3824d2c8f98da26bc04a5e2fb886474de",
+                        "4a33c865d64af782360a638e5ce91454b9099dadd6982fc643c28c61e3f43f91",
+                        "8e9b483a8b270bbab98dfa2fe64c3b72b04298449a33dcd26351873aca38698d",
+                        "31d81244ab87d671b77c0468e52420d7d7beefe39f8c9f558e449c068ec25a07",
+                        "56119c623ecd606fb68df70f02597e087f1cfcdac89684ff30c09795edfb23ce",
+                        "fde6b0d71275ebbfba85a49250966e29041268106c0186bab6bc275d6ebd504e",
+                        "44fd0f8bac8cf92c15e8ddddbcd5bbdd9b5cec1255543e3d4f5feeddf85bd830",
+                        "e9b28a876149fee59578c7f07def399c832d6e9c9223fcadcc2bca03bff11a5c",
+                        "d7d86df83dbc4a8d575a95e5fe75a96b17d963f12923383aa1da996bfb50dcb3",
+                        "e5ec2cd15e49069f3aaadb5ef61809a11721cf4fbc37d6ce90f05a427a2ab8e2",
+                        "4ab3e03e8edc353517658605165f7fd9e5e46031db82382035e473f3a63a24fc",
+                        "594426062a3227d33512d2af86ee5b931b1bf4b2061f27dcedb24d4e3e2fe0fa"
+                     ]
+                  }
+               ]
+            }
+         },
+         {
+            "publicId": "0cbb35b1-4124-394e-9de4-d99de786d0c2",
+            "assetPath": "variant/0cbb35b1-4124-394e-9de4-d99de786d0c2.ipa",
+            "installTargets": [
+               {
+                  "device": "iPhone11,8",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone12,1",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone12,1",
+                  "os": "18"
+               }
+            ],
+            "variantDetails": {
+               "compressedSize": 253009663,
+               "uncompressedSize": 494737408,
+               "hashes": [
+                  {
+                     "algorithm": "sha256",
+                     "chunkSize": 10485760,
+                     "encryptedChunkDigests": [
+                        "714e171dc2e279540e0d56d2cd77bc4e152115090611d5806ffbac5cea51f930",
+                        "cdc2315f90c6ffbd1fc9dec60dff7f8ed289c9bcd8e92904dfb0420100c14ac9",
+                        "5054296fccad1efb7dd4687226ee4d55e83e197112068f0c31171811a0bbb952",
+                        "120772f17c67353c782a3791cc33bf4e9eeeb59e46a106ea4aa2e4b5b58c969c",
+                        "1b5e177150f4b6ad2c9bbb752cc1ce36f4040c2c08ea19541a1e898d457b3c1e",
+                        "fa393ab1baf2dd101c8d0e0eb7985122e5e96c130958d48baaca5d9f32c24644",
+                        "92c17ca73edf83de44184efc9479fec8cff9764698929b90ea07d3c10f41a60e",
+                        "fde7f29d8a5f4440fd08eaf8a2a0a70f641bfa2bba59d3bb7dd9a2b447d9e018",
+                        "aafce1b6d046ab673be80ec633fa6531d7eeea2e8f200924eef76cf03da35e9b",
+                        "a1544b94b060e1480ee2d63e902c5a163feaa29618f804892f9d9d9968253410",
+                        "88cc9ca7c20ea49710c24ff92d5849df20dd3c202932855dc34dc65254749a8c",
+                        "40a3a0dd7263abdb6491ac5dbba056e24509aae3d04184e044f195f5cd89324a",
+                        "1a12ff29f58e5a97c108dc9b729edb6e39472d1447401298047015ca91140bef",
+                        "238eaed6df2bb26f5cf42c3c9551017579de73881327a907c7e8a38490237e9b",
+                        "3c8e7f94565e5050d09e150611c210bb87e932c13c7105fa4aa633ce9668bcab",
+                        "c82cd5664f1f96b6babc7f217bd642143cb479b53d591426fac17e074ce1700d",
+                        "e5a3e5061ccb0380a62b2c616fbc5a1271962c2120a5c56080629a54c0d179c1",
+                        "18849575cb78e28ad539f29b76016e83e38a148ad8fdacdbcd3cfdb09e821e77",
+                        "078ed3710f4f7c3146582a3b6e08e14cf30ffb66254402dd850b3c06aeba2465",
+                        "8c1a854d4d767e49b1babe6a17fac8761b0a7059a0130cbc423ec3402030dca5",
+                        "7ffef2f622935fbb97f74ba09503e3cd434cd904fb87b5ab03a5fbcbfc2e8d13",
+                        "1af42bd08ce6d73faf872de4c608d041612537bc6f8a95256cef4345b3cef9bc",
+                        "e0d479f0ba08ec81784f07bb3e29ffb55b78e13a73d0a52836ccf54665b40236",
+                        "16f3c3315e67128f599e0e1fd79f63d2e9400e3d899f01f629be318e0651fb17",
+                        "bce1b7951818e887854543b8bdcdcc0d7fbf06315dc263fbe73ac6f4f4c3c402"
+                     ],
+                     "unencryptedChunkDigests": [
+                        "cb7392ad43b6947da4d0f861074f7e9fb3173e54befac939be855fa0a8f742a5",
+                        "e9d2c5761cd01a0671dc194b2d51d41e126b1bac397f72fc2b947c766fd4ed52",
+                        "f26f5852e8eb0dd10ac4890513218de5435a87ac9bb3656939b1b8e94a628562",
+                        "8cb33b68f13987764c95827e871f7bc99eb55db5a7aa64d469ff2dd4b70ba383",
+                        "cfdf400d1d4280ce6580ec31b79c65ae55d67ab0224787a6b0313cbb83e557b8",
+                        "caff2a023e39699655cd91f412c14c3269d3290520b15d9add93943a34ea86e4",
+                        "e5118eaf86452cb8d635a6ce8627f61470be946c0c50200c0e3ea2cdc1ca4e4e",
+                        "b481ade56c06102a13b9bcc4379ec2ea78b1c6e38851b6d323fa8dcc0040c60f",
+                        "fcdb7ce52d73777b99d422b7c5dce78d689f849a0ffc229aad1ef9f9ad766d40",
+                        "188eb35b27aabb6177de77e170387cbf482ddb123c4d6457a3cb095321302ddb",
+                        "af51e5bd249c6c31d7318c73bece6d89dc482b66a1b7dd6915da7bbe531227a0",
+                        "9d79e384ebc56f07ecdb11f2caf43b941ac12db2f4511d7a1a416486f8a3c83b",
+                        "77b0a9e6d7b108ebba5a6caf37a0e0df251cce3cc29c840544ccaccbc407294e",
+                        "ecab195e89ccf59038c649f4afbeb475b07a1d779b4d6256b0b279e47a0d6277",
+                        "603472dc99461b21318143b911c56f2bb97c3cef84bc48a0d007ae23690e0487",
+                        "cb37ad2069f8778a5ac0611c0d2ab87639b74835176c083961d286798a04ebe8",
+                        "373df2ff03af6b374630918a369e2cb67a7079fbfc92fa07275eb2deea082bc9",
+                        "c7a9645a639ca0a32869d4e975ced3e178a875021155072f10b56abddb731eb4",
+                        "e55726226c86605a025bfe7333f96b4531ab9e6bbfda46d27dc71cfc3fcb5fa7",
+                        "eb3c2e4843e6f817358b0e82b22679b4580e259537d0b5f11dcc4f67ebd2e520",
+                        "9fdc86e997523f9e92455970204e8f2cf89a0880f498c82a6c060e72b8dd4f89",
+                        "87a5540b7ebecaf0529dbdca592caf6a9ab7a0dd976871c98c73c6d9fbc451e3",
+                        "3433c0d83d39a3cdfeea678abb46067a7c624a217fc4af249e07a0eff94457ec",
+                        "18de02f7e3f5b17efa11e271836e7f25549b5cc529d155f6294aff0e51639829",
+                        "bd33e4cf1774bb9a5fa54d44188e513f819d672305c1bed7673318d930ff7454"
+                     ]
+                  }
+               ]
+            }
+         },
+         {
+            "publicId": "19dc6e47-bdf9-3d7b-b42e-902b8f94e2cd",
+            "assetPath": "variant/19dc6e47-bdf9-3d7b-b42e-902b8f94e2cd.ipa",
+            "installTargets": [
+               {
+                  "device": "iPhone14,6",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone12,8",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone14,6",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone12,8",
+                  "os": "18"
+               }
+            ],
+            "variantDetails": {
+               "compressedSize": 252985171,
+               "uncompressedSize": 494712832,
+               "hashes": [
+                  {
+                     "algorithm": "sha256",
+                     "chunkSize": 10485760,
+                     "encryptedChunkDigests": [
+                        "13b5b962243a7a01109c90bbd54c92f2dc8d692331867e2ca440d9bb46e2edca",
+                        "1acbfa5b9faa2d6f8c136b9b1a7ec26fff9c9ebca0e904aa6cbf940842d93d97",
+                        "82d0167424c1871d6a6ff1aa9bd02893eda714b953665b035be0a46ab1dba3dc",
+                        "d3eb2b03efb6f6a73db5745610bd578eb16a388fbcc80c8e53dc3b1401717fcc",
+                        "0cc55c30f60d64b04ca07af5cd7ce52555479ca3b0fd1f5e9f40c16e4e2915fb",
+                        "f50be10a4cae9b2f677ee65a307d296365582f1c94fc37ae27ea14dac5943d32",
+                        "0859a619c555c502265eb16d6986ace5d071c0fef32ad2032182aee423e9cb70",
+                        "e7514e2c9c6aaea51e15684e8e6b5d5623d52001761378f5ff7182131da3f15d",
+                        "69672da98d87ce81867862c7ee9225bc380c94c475f6e7353c06612410f256bc",
+                        "e82dd295aceb0e1bdd7fd5ec4740c3332b005175276487d869dd4dc30d47341a",
+                        "cfd088e19900d3538e4504679dd0daf7f406278b63185c36e96fb273d3c7db02",
+                        "ccef15936fbbaed3fa741004fc819515e33791af8704102ba376b3a83c27cd88",
+                        "ea220f233a5a88afd1fe52ebda7b3e09096bb95e8222b41802bb3becf63687ba",
+                        "34c3598d7109a5f3ed730168c5df2dceac1ac2db9b4e6e60d20e596746b6a2f0",
+                        "4e3c7aea497deaea72761833abf795206b5851d9089bdd5d237ccaa37be12453",
+                        "d53a36be313cb65ec9a831266cb834dd8e2d8524d38fe49acf25498ca616d778",
+                        "2c22efabe943966a97bb3e5b81cd2bf54b1ac5504803d7c80e3ed1b797d96610",
+                        "9914b79665e5d91eb6fef0dc3481ee149bff74061462644e799848eddd36f867",
+                        "fb7a05f92324363af6c4cdb9d004bbc054bd0a995b52a580db5fc92c46c071e3",
+                        "e1f24f9ecac6ad7b24acd920740e353229acfade52c282593ad737b385f18f0c",
+                        "b1b506621a9ef3caa6b74bcd7d48973771bd46193a0fbb96ea69a52daa044fa3",
+                        "18d886f528dccc00f865cf449cda9815fab2b0ea5f5f6abf6ada687b1308d85a",
+                        "e9da33301a17fabb753d15acf790b763a485216431fc3a62be5f2ad003c79bd7",
+                        "33faacf8c9722034f8f5fa3e88bc09f6fccd8e0da632fab1a8b5e463ce9a1356",
+                        "677e57ac2773f97f93eca4053a41c82d09d18e2a897ab1aab5b27a378e568e11"
+                     ],
+                     "unencryptedChunkDigests": [
+                        "ea871d7da81ec68f5116ec1c1f1d9d008483e5e9fb4d6d75a76e9db27be3a141",
+                        "b44f87c1c0384f3b8d84504596db31f12b54e37e2e8e0c852e60e0f24c89afc3",
+                        "eff2247444626aafbcd0a27006d2082aa7848347e8aa07c9f2fd1c131e756036",
+                        "fe39c593db8b0f6e3d5f3b02298ebafc0893f73fb511ac19fdabd5d205a92af1",
+                        "579c36dccb0fb33ae86628873311d34c542ec08c2857e1bf16e35040b823f28b",
+                        "d1a17feb35c852f3814536ce089c86a484329b1a3875a61487e81ccc910c7c2b",
+                        "2f4007c9c44b697f5be5e712d07bcd14f0dcd0c9db07a6603e0f8b35a351ddc0",
+                        "0ab8cf44320cd8114d7ac99a2e8d3bbd16aa596441bf3a031385930c4a35a552",
+                        "5b9c4d7cf1e738a7b40bed0d0100584c339a060fa3060a6bef37ea2285508afb",
+                        "7c75e8c8c02cde2d47eb01f60a9157c42333fd306f187b26442033c255ea9a4d",
+                        "a0eb9176c59ed26a8413e69797bbd77a15d306e0056f268307a32c01f03be35a",
+                        "bae04b1691b2aa14f6c03ae3f579b3eb4b8909a136230bfa87e748fe5ac77f11",
+                        "9344c1c26c55e09cc514ed2fdc1ff79c1c581867734bbae7c3037ea291761f58",
+                        "670567b8a5ebf0980b7730c912ce18b7ee68d5022a786c94d0f07f151590667d",
+                        "29762c7e5f2629d2037c2f3919a33132810dd6061ec599afc31b581ed179fbae",
+                        "aa1c0432e67f305f83614c3454f4121737eed300295a8134e51adc92c4d0358e",
+                        "10c260b74a0737473888ab87c8d8179c55644b5af5affd210c9700bf82b4944c",
+                        "1d005cae86503b8795f01d7f6ce55500a3ecf0acecd3b62dcec404c5ce14f27e",
+                        "e5f3179b66f9eb58376f84594309ca8df556a67632210efdcd3db5fc588af679",
+                        "a45dd7df3b31370c92780dc6afd702b48b58d790b1c682f56d15b072cb284334",
+                        "6b9437eaed11100f8f35a30591c04f772a4f282ef1b0d2a55474fb0b7207c4ff",
+                        "8ce55c328798c1a248a30311712fc9e2c97ceef28b8d89ad70b2face052ee3b9",
+                        "fba23de9113321cc3da6ecf8d61875a24732d69971bea8c37c02c16c146394be",
+                        "d7d09fcdc890692b82187b1ddddf87c08975d857293fd14bca1cac87ef04a602",
+                        "22e884cbea2f01a7dcde4e26d4ddd86dcbec884311f2ef64cc3567892c7b7bf7"
+                     ]
+                  }
+               ]
+            }
+         },
+         {
+            "publicId": "b65c8c47-10a3-38c3-bf62-9544c9fc59c7",
+            "assetPath": "variant/b65c8c47-10a3-38c3-bf62-9544c9fc59c7.ipa",
+            "installTargets": [
+               {
+                  "device": "iPhone18,2",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone17,5",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone14,7",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone17,2",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone15,4",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone14,2",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone17,1",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone15,3",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone13,1",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone12,5",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone14,3",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone13,2",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone11,4",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone16,1",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone18,3",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone14,7",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone16,1",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone15,5",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone17,3",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone14,8",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone15,4",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone17,2",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone14,3",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone12,5",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone14,4",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone13,2",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone16,2",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone13,3",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone17,3",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone14,8",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone15,5",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone18,4",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone14,4",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone13,3",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone14,5",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone17,4",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone16,2",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone13,4",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone11,6",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone12,3",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone15,2",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone11,2",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone17,4",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone18,5",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone15,2",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone14,5",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone17,5",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone18,1",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone13,4",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone12,3",
+                  "os": "26"
+               },
+               {
+                  "device": "iPhone15,3",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone17,1",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone14,2",
+                  "os": "18"
+               },
+               {
+                  "device": "iPhone13,1",
+                  "os": "18"
+               }
+            ],
+            "variantDetails": {
+               "compressedSize": 253005533,
+               "uncompressedSize": 494733312,
+               "hashes": [
+                  {
+                     "algorithm": "sha256",
+                     "chunkSize": 10485760,
+                     "encryptedChunkDigests": [
+                        "fe000082a7b75500aed1baffe569f4ce478ec1732d8c9f8c97f0bd2cc38ee25c",
+                        "ea5d38f4a7a30bf0756f88917870109dd5c58df69d6ea615116f84b41e571570",
+                        "bbef9f5442e60a2ff3e73517f05bb902378b3c89cc71ca84bbe0f31274c00f95",
+                        "eb5c911a087736664203f2bc0ec09c3d4a3caa3761f80602adf77501af5077a6",
+                        "ff1083377ef24ce4b532c5c4aee2656809055e6b5cdc74bf4828170a28abf6fd",
+                        "4c0a2a034e68256b49b1329530ea6ac9d27737c678cd507571715a6046c72f4f",
+                        "0b1132b135be124a896464a4a12b8bb3ef9fefca18885b25802abd0bbb2b8f82",
+                        "fb868c033d7689f106b156bd4cb555d21d8f5f909e2160cd427eeed0f6723a17",
+                        "bfa7c1c2c9edd877cd8136e5f7c5ad427c7a191c619827ee90bb8b0bb749e2dd",
+                        "c69b1a7852f7d89558db65077536ef924206229ade9aea49944ced1b663dc545",
+                        "e1d233106257bcca9b88a437c258345ea5be05492ea5de797d4ed4132ae4f4b0",
+                        "3979c52f7f4bc47dbfc700f8c8b8218150a4692085445f435e3a60c31c5f8347",
+                        "0cd742172389e8d6b7bf560e6c90c18fdf64e069abf3c7ad4899c93d617c6d8d",
+                        "3d015230e31bd19ce3100f48b56e3701ec31fbdd5a529b7cb8239e6341000b1c",
+                        "bac04868e0a58ad23c3a96b97fcec16798b839cd1164dfa457d6c9d4eb425af4",
+                        "20be87a5b2c934a478053343e67d2d4d699a7b796eec9faf6078404460dd1d48",
+                        "39ba5d82a77389060c8242d0567be162f8188aa87c808a45b8691965ac7f749f",
+                        "75efe75c991598106f193522c84793dede060b4e8e921661a16d67b6e79ad732",
+                        "37d230c2b29961ed67e93bcb4109e334ee3293a10d07ae15970ab9e21f2902f1",
+                        "426bce65e31a84fd1d4a4a4fb8c2ef5d2e00ad25083c0261641d9c89928570af",
+                        "c6ffc20b014e5194c50d3c204c93bfe2f029e040245894ff338cb847562672e7",
+                        "d55a5c707702b516f22f76ca34a570e66634692dfb66b33815968ff2b165e2f1",
+                        "b47f4eadd34b8aaf944b303a6be8fa8ba1f35aa7d7a2801a08458425b02e901d",
+                        "93d31d2f51dac9cc273af28b31c8776ec55e7b06f78f2b1f48498e8fee7f646d",
+                        "03318a5f03d0fd12dac8ebf080223fed92a675bf94d20b03265eed7d27c0208e"
+                     ],
+                     "unencryptedChunkDigests": [
+                        "5d0b2246005f003a02e80198c69b5f7dfd40a7d7d2275fd2cc882c14164e3b58",
+                        "4e3c281777ca67b6ed6a78b4ce49b46d8aff0fce15de64e80bbc60ed0681a104",
+                        "466f36effcbd85b3268eab8375f4b3832eae0e5804387639fa3c907334539211",
+                        "fd6a767e105c706c767b23228146ad864d1dcd5bea8acad4a60981333bb21a1b",
+                        "03eeda08f64aa8bb457114cc8f8af8b22590d92896227960334cb036798ae35d",
+                        "1224c64dea8a5afb65bfbab5ee2e2039b3d04a43dc1efbb635e32b9999f51c5c",
+                        "859912d581593ef078dd3b82aee975e3cb5a33372e95c14d368ad80c68d428be",
+                        "4101216f28fff10c1a9740667b2c2964d75cf48e08d80a5120586d7b4743506c",
+                        "f1bdba3842a948be31a63f5d24d42159e10198916449040b02146651ebd5d2c2",
+                        "d2fb932a555aacfc436997f598f53f8d5856d3f45ca44244fde723b90bd186a9",
+                        "fd0c672bc3082a865e5614a4ec108b94a8b47cb1a19cd0885328ec2dcfe75351",
+                        "5326c68a45adc6622aa4d6c9054541968eea93017a42bbe5f24005890a045ed2",
+                        "47b1a2a9873c36a3116c5e2a97390daf618595fea7232f4c55b6a4b6b596fe3a",
+                        "ea55a01883070ea1ceab1f7d54f225f2fde456b6e4a955b076eeca9b5bfae4f8",
+                        "bf981d8ea0f27feeb373dce27fc4a5223e5a5ab6cd25135a19b90d0423fae849",
+                        "84af9ac3da295953b4550d0667e51eae06b12020599cf1881c8d366ad6363c2c",
+                        "17c07951b918527c9ee60e75f9d701942c367b860dff8e801424845eefba9d9d",
+                        "59c6cf88b951edc13c52306573078e075c3bc0ac90cc249430b26bb7a74c959b",
+                        "16e87da59e2b97cd2839cb0b10023e1486e98e280e133d3620a4f5eb6d748608",
+                        "217d78dfaac96cf57941a15c443919fcf55fb571c763385fd7dba551e263d30f",
+                        "b633e24a9181b0471000cbf2bcbdf0d07289669e07d361640d43372fe50e5778",
+                        "93c37c7fda3a7463438217463b241d7f319e4a67b886b63b5e018ec2243455cd",
+                        "3c48968a359cb9ce8c55036c81a76a8453b53f896a7687c07a87a6432f697834",
+                        "57cf5fe525bd19d112f12b54801b123bca565e03f9aee8839d4c8d6fa35d0cb3",
+                        "c0dd3317b91fa2564ae0af0e609d31e8d6257f72ffe9ad62b9cabf693b0ea7ea"
+                     ]
+                  }
+               ]
+            }
+         },
          {
             "publicId": "1f0b247c-4b63-4ab5-82d9-301887c9e60b",
             "assetPath": "variant/1f0b247c-4b63-4ab5-82d9-301887c9e60b.ipa",
@@ -210,7 +1294,33 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "47cb6216051b79f14d2442d534adf2fe5e6013f083e476daa78b75336f9604c4",
+                        "37c7777525d1068ddd1d18ae0e41f35abb6c7870031f03ad16d66dcef0372239",
+                        "7d9070ef82349f31c180e0085a0300a45b41c6f934606eb92262e0b5080cf15b",
+                        "2718d304292d4aa81f56e5882fa153dcccc6eda6f3d4cbf9931dc563c6be2599",
+                        "aeaeeeae33e666449c2d642ba80fa59588243e9d416fb218c78ce1b62bbfc662",
+                        "8cc4dfff76f88e6c3513911d22776f7d1d742c918bf373219ffde47bc7504552",
+                        "6b835d0a4cf75ec8faa2955a20cd36068c4b6d14e3afe6a96a2d7ab8cf134286",
+                        "f39436e6b86f97bcb7eb5edba27cd9aca6e9ceb80a02a401bc93eddf4b1eb5bb",
+                        "d5a5fdc5739eaf8255e9500ccf59c7a96c94d8eb31de6c8aba1d9546bd644832",
+                        "158e2818d599a665efda7f4c9ded89dda67d06c6883abffc44c9bfb9a1227bbe",
+                        "51c132109851c28bc287d59d0747e798f9682e1a4a2285c67b5fde68f0f084b8",
+                        "3ceebf05901dec964fa9c6f69c48551b5f9d3d4e3f71693ef7b90a3ffabd04ef",
+                        "aca4fff552742b1ed2b2f766bfb67b4c692824e17941247f5d86e331ef73b608",
+                        "b88b2138cd33fb01ac4a517937af46cd0294cb12aa6727118e948761700f9930",
+                        "339589ad1213230832d35fa0e621c9fd48e666512106a096837547277be8ed06",
+                        "fee6640440df703d56122ce7e7a05f8ff3a7a419b9d90c4a88373d582fe79b9c",
+                        "1a5df32224676c4f8058eeb0ad84e239f80e9e6106b7016f8c7410a55e1d7f95",
+                        "3ded6bdbaa429fb9692607deb61da706ffab6840c652d42386f450b1a4290221",
+                        "077f3d4adfbc1b2540b9815737a0288fddd638d13ce9d7cc0ff3ff8d5b758fb9",
+                        "77c9c8e2a2595ed8179a819b084d4c81cc81590a105f8bea1a3de7eacaca2f5a",
+                        "08bcd1e5758b8d337afd8522bd4ce8b32711c0ab15630cc15ff278759f118395",
+                        "0e0159564ef39e6e7fb42379224a2255c870435fcad212124e9f9903eee412df",
+                        "516829408b75e20c01cb64c9c764310fbef657fa6e78c3e21c8ad361740e5fd7",
+                        "8b104fed408ec1b87ec3a3bacb6ddc4433769cae2758c0a0e6a1210abe1275b1",
+                        "06e14e11331671f6e4199d352880743545fefb2af4109532fa32638b5a6829e7"
+                     ],
                      "unencryptedChunkDigests": [
                         "adf2eb80b701954606c14da0d1bb6f7ada40ba124f24d4cb88880dc3528f0845",
                         "dc16b624462bcba421686d660c20752cba38c1f5acac687465314dd0333af644",
@@ -270,7 +1380,33 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "139da160263d9b9c02eb5f12cfcd40b20b6e0f99fc3c90f3f4d1790635a6c409",
+                        "fb73d121824d9b4c459c8c50e8e864127b18cc5afdbd13a49d6273822b531fcc",
+                        "de948e995b1f1e15ab26d0aee3bade362829571b96e792a0e51e56253fad09df",
+                        "64fab9cfbedd06995e40887bf228d59c6dd3848357da5c23129bc9ff88379537",
+                        "e135375e32a2aeee3b55f3f89d68df2697e0cb21f96c1a8c1a9c173e7c871a60",
+                        "171c343abe92c2350ad28f2741647ec9ef98bc8d3abb787beb4d6e9911b2bd86",
+                        "b8e547282c5955de3beb1669a18bb25d2d6f0233293c92cf3fb0fa98a0c0bae3",
+                        "72bf99d837b07d90d204242ca29cf50526ff5f995912e6fc9fa0bbb6a1d42c06",
+                        "4ea9e736083ea1766b7c1e41ce5ceea2b08d080044c6ea2fe654785ddbd0cd8d",
+                        "b9427524a4b7bed0911e2c0713fbe876fbee0d355feb797224e61cfb670d5de2",
+                        "8b8748e53010609cacd4b49a5abc4322aee13e82006a8ed20b9a4e8ab48f870f",
+                        "266d07097c0007737ae2cabff963b86d963bac2b576029035afbcfe2aaef3caa",
+                        "77cc4d0f3c027b6d5e4f5a4750ecd9ba98e3108036da978390688b5435b4f04e",
+                        "f24f68db4fde92ef88f7c205fc47cadb909d1e89514a32a21fcfc34d8e8a93ef",
+                        "94aca08fbcd142be23fd7094f2b41a98a1ab7ce126e2d974e2bd205f7dc53f01",
+                        "ef77e4dcc4414ebbce8369d8fe4433ed0b36522f137bb0b323e257576e0a9c64",
+                        "3b59e70c1be71150f0e4e54fc914ca214c2d2410c992f3440df146a0765637ea",
+                        "54893d6597f8bc68f310135da54b956fcae37c028d9a97c945598d5ad8d0cc59",
+                        "f611c7c60c40c227f01c9839fcf32aa35c36e8e17a59b7fd3cc032daf2247f08",
+                        "9e04a5f7eaed1244c3132a548649d24f4b4e86ca1b276079791b78340231ca67",
+                        "362b86e0a540e49ca073876d1dad44cfb4bbb60bdc7e36e41401f8ac9a8b1151",
+                        "6d0ca2553218628defd1eca5f5ba9a8e85f9e9b3732904e4bc22019b84e48d78",
+                        "e90836db7d4ca51c053a97b43c2ffe06926dcd4d299d07104722cf3956679639",
+                        "58217ca850d1c5086ae247a2e1e3837729507fc65b14aec253988ab85339fe19",
+                        "eaad8ff2bf334483ca44ab6c5398859f38ddfa5843a3a7662660d7524dc082e2"
+                     ],
                      "unencryptedChunkDigests": [
                         "bd65c8ae17f5643256ea7c6a4d9ee602d8833ea8ee7334b6867582fbebfc3b1f",
                         "c3d9e3f68d005454b13547c079e0a5f6fb39aef13000678f36aa69a16acfdf83",
@@ -330,7 +1466,33 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "1062644dc56cbb2dbe8406581a837b0677a145b2bbac844b9e6d9a831447d149",
+                        "1900d9d7dd132b88100b2d312fece33ec908814c92bd69e13199de0c4c276289",
+                        "1788b99c6f05ad0badd12544b49e8498166b3d29034ee1f68f40916933940cec",
+                        "6cedd3a0ec19b0c435566ec7c8f17ac1852015a412083edee4c4e467766ea2d4",
+                        "7db2741ee4d7e4baef500468691b83250b3e27a85b589a26bf310f39919060e1",
+                        "3a9387004f615d65cf9d8c848064aa39ecdddc7c8a4b270c3eb48395a6b91a52",
+                        "3f72a8f42ef2cbb6324916aa2f599a8d9d7336b96f714cd70b810549bc41409a",
+                        "937e93ab14d9e8b9b64320460f9043cb086c05cf82f64948af00acc4f8b99943",
+                        "6fb33f9ab229657041e3f51776da00c6ba668df51626d26a70dd27d7a2f66d96",
+                        "eba9024168b63a55e6de01ed20072c52b6f89b42586ed96739fd58a772f949c7",
+                        "2c4bbc2053460fd64f2add9ae123614f4c5b880f04f23f3d8ab13a6e99bf8791",
+                        "e804875ad907e24aef7bfced5751fac60e15ea7807a14aa0d34f10c0b0d36c82",
+                        "9baf114a981716871b7f0b360d55f41e4c8c1916b03f43aac8137b3ba522eba5",
+                        "7f87debd5f4d1de4092c112c6cc3053d888e955d3ae7570e942f063f76944439",
+                        "034b60598ca7d19545a1b7249cdee456090d64bba7faa67111983a8d2256303a",
+                        "7161595f6eb5dbe688f78873a33862fc829b97ec373d3a6038f9f0831096df28",
+                        "56a25c13d633c0ef720d8116475b567209dfa8dacceab1574a6850b168797ddc",
+                        "16ab0f4af78960f952a9b44092ebc6c3360310afcb10ca95aca7cc9b0e377d21",
+                        "1a68ff09c2530ed82e332450be4bfb84df6264060da34341288963c83a7f80ce",
+                        "07420f18ee7640ec771f60c6908cc3463b25b4fa96853d305172e189cf240360",
+                        "38b4dc85ffa1b67ef2a4becbd75dd98989fcd1ca41cbaeb433122ba003452a6f",
+                        "b31af89b05375b91b33c7d87c37cbb674f23a1f2f65ee8af3f493f2b2844795f",
+                        "df6f88a04cc7930522cdb39ff339121d33e25e75b7c6a327c674f480ea074a88",
+                        "7eafd6e6157bf5d27001ba40c8dcd835f336decd6bacd2972cb416e406f30d28",
+                        "313089b26675c78f6052da0ecbeea76c6b2d2d241cef891b1722785ae706c41c"
+                     ],
                      "unencryptedChunkDigests": [
                         "fdd794f83fe6df632f3da86036802adb79d689af28fdf6428539fbc221f5e91e",
                         "f54fd5fa3e52bdde784eb87dd99d29b82f9b97861e23031ba559282f6d5fdc5f",
@@ -838,7 +2000,33 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "c16884ace5a9cf0014013bb02f30f3ab8688a225f82c977ee3bfe013ebb0d965",
+                        "6e27fcb7c147891bad49dc10cbc34c343a9f405b0c823ff77fa26e3d2844c197",
+                        "7c28d2eb4dfda7f458d22ad7483fa9b23c015e8c23bd7a6c912fe719b379fa12",
+                        "edad1012cc5884503f51e91962196fecae1e3e53dfbba018fac7188adbecf540",
+                        "9fc3d02391f8b3ffbbc18c0db1bae6efcfce08a2c183724af0639cf089fae406",
+                        "798523138460b94eaaa58af6c25f3d67efc7701c9fb2b9a6733cfd1ef27439fb",
+                        "8711b13fa1ab7329a68cba00d9ad83e548740bd00c7f9cd1e77502cc65691645",
+                        "53ecb04d966dd15f15f587303033005870b66b856823b2803519708e41d0aac0",
+                        "6748ce878017c0034d89b7d8636d7b9b92884a54ea933b25839967a42d1fd168",
+                        "0141531216b63ecb72130d4a2c2f440bdc145d61f87267c10c8bc1d2d9a0e260",
+                        "ba9db9721eebec36b35c35a059d219b28d4c78e723b275ac810c86dbd9436939",
+                        "48f01b1dae8e71c1ea76d75fe131ccb29157f6c5afe1fbb94311841035b661f5",
+                        "852450e586694a2169b0d5783a35cf7c4999ebc2723f3f0662915144fa6f68ce",
+                        "47a971bdd5af22602f1b7878194d8e568bc8b8fa3b47b3adb317f07311d56f75",
+                        "fc26865bf0235dc729d34a9e9458b016e48be3b7147c1f14c2c3c7033d3246b3",
+                        "fe9c4eb19c2cedef2d0fe6cfb23c0bc91d6a4d6f60e1971d64caf113208fefae",
+                        "dd5a69efe0952cbbdd08a84b5bb898d1373ee907e8568798e3e92fff71395f80",
+                        "293ab402546d7dc1e09d25c8011da295d4d9dcdd0056c6991a89ba28e9f575ff",
+                        "158a7a55dcad3a9b0757e289947ef2304e33e5feedfd877741b9ad3467825446",
+                        "92830638a8f1cee6216bd2130a61d5b4c19a34afca0f119fb8f1e2d3f595b5b4",
+                        "0038dbc43dc80ba7aceb61adf33c38594cab25b0e1371136117e00dd6f4f23de",
+                        "929eb8e79b3b7d4895fd50a6f0516dfced862e0394634bfa9764ebe7412eaed9",
+                        "32bd4b068a8227ab217b61205a78d25d5f1e7c3f2c275a3c97cbc4c93f0319a0",
+                        "fd6af7c589426ef205099e6d827eeceba97e478061cb3f68749bffe47af9ecc3",
+                        "06574ba2822e1d9520154fcd1e938a527900b6301ceb5b0d4d35e599f7a9b0aa"
+                     ],
                      "unencryptedChunkDigests": [
                         "596b7a204b6dba36af3dea5f2ed58f3b153188b5c5dd1ba76ce1ede066a9f838",
                         "414eb39b47ce8196b4fa2ff7d6d475db9af86e3067a1f3dd0d7ed6d47b8e326a",
@@ -1057,7 +2245,30 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "960b7fb4c0e4ef76dff53e49ca702e34f41e15f50bf24653e992e2eca4fad77f",
+                        "8a1dee0e359e81b3f051220912f351025e72f710d2ad87c80b5e610a1a11a7c4",
+                        "4e8d049599987e7c57a629e170f2ddc2ecb058d9dfa867150323579358217505",
+                        "0e98fb1c2bcdd5481969bd05ef4020105166a7cd45ac19df6c5425365eda2e6b",
+                        "578c23a652b74ae9eda0c44a1bb84a4add0696fffd240b272e495c5a2bbec2b7",
+                        "8dd88ebc891fe70f690be7458436c27ce4fea2b07e8c278583797dbf9f431a3a",
+                        "a8aad60fd2bf04c37a998dc27b625297180f9fc3bb4617d44bcbb1d16e77662e",
+                        "390d6137c22cf24e0b380382076533a466ec2258ac47208687e626bc07bef09d",
+                        "2cd54f33bac056dfeb379f045c3b1f5573e41a580df15bb1cd7f7f052c28efd0",
+                        "466d69d1bc2b33043322ac3620fd6577dd038dc4ca75ab69001b2a75d8ab2829",
+                        "5c5faa42871520a905ab52917f2dd5ae8f473ac621b5c63f1af9cdaaae82e701",
+                        "417c95cc9e9dff4b233138ab30edfe2086a967e43a8d91e3a377abb9879884e5",
+                        "c59247fbd3cf10943b0c083996789814d4b7efef6863c0d32cecf65aadba6c84",
+                        "ca9dc4fcf1c6649c3b6644114ffa849c9038c83061f8979e9cbd6d543748c384",
+                        "dc295c96db7add09ac89a49be4cdcd8b9042e2b98db82f65e281f66f4b2cc62b",
+                        "0958e5fafd88466b7bd1f50e4f52e5e488a597a03943a62e4714c4a5e3878c35",
+                        "4636bcf28975aa67198e9b643eb943f717d6bce3b65b820a2abf6516a0eee416",
+                        "0619a9ee81400fa619ecea1d743dbc6a5f9b9fc70c5f7fd43fee123a9b48f10c",
+                        "4266666f6979382d701e0ef8d098faf510f6e72acd25c21d271664529e37cc7b",
+                        "ad929af3be3bca82e888237cbca47258f64a46e57ef92be9eb8695950dba925a",
+                        "5d3bff63ad96e2e9b915dd66752f756744fd78cf7f95837af2e7f01ea64e7da1",
+                        "95014fcc6263ee48504c197f0c740a085c0896f189fd9b21f86fdd2a470cefe5"
+                     ],
                      "unencryptedChunkDigests": [
                         "d854ee2b63368c4c6aea371469e486403630977bfb2cccdcfc68dadedf584d74",
                         "3eb9fa78ec8a2fa7d0ced78b0383eb999bcdced77cd8fc05e47c15b074a809bc",
@@ -1081,220 +2292,6 @@
                         "152452cfd600e311b563d6731ca1d397a0fcb2faf4c6a0d144e9af1762b0cf70",
                         "16d9bf76593cb85750addb2dc2167e06f7ee51a00beb317497acab5a299b6711",
                         "5287d3dd0d5ef43b35ab403687999a349ada35587078e8c3052713d5b52ad16e"
-                     ]
-                  }
-               ]
-            }
-         },
-         {
-            "publicId": "7b6320d4-fe09-463c-96d8-3a5b429b9804",
-            "assetPath": "delta/7b6320d4-fe09-463c-96d8-3a5b429b9804.ipa",
-            "sourceVariant": {
-               "installTargets": [
-                  {
-                     "device": "iPhone14,5",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone13,4",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone15,2",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone11,6",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone15,4",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone14,7",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone14,3",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone12,5",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone11,4",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone16,1",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone13,2",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone15,3",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone14,2",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone14,8",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone16,2",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone11,2",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone14,4",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone15,5",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone13,3",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone12,3",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone14,7",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone15,4",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone12,5",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone16,1",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone14,3",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone14,5",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone11,6",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone13,4",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone13,1",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone15,2",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone12,3",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone11,2",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone14,8",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone15,5",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone16,2",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone14,4",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone13,3",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone15,3",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone11,4",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone14,2",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone13,2",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone13,1",
-                     "os": "17"
-                  }
-               ],
-               "appleVersionId": "867798022",
-               "version": "30.40"
-            },
-            "targetVariantAssetPath": "variant/1f0b247c-4b63-4ab5-82d9-301887c9e60b.ipa",
-            "deltaDetails": {
-               "compressedSize": 227454614,
-               "uncompressedSize": 429709312,
-               "hashes": [
-                  {
-                     "algorithm": "sha256",
-                     "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
-                     "unencryptedChunkDigests": [
-                        "b874527509d3c3134b7507993dabc1cf1343bb13dfb5f4817a5faa9605a70025",
-                        "cb9804068481fe39f8f4dcbb94729a895d0750bd2f59e8481ec338acfc9886e6",
-                        "0d9ce12bc880d809ea5e43bbf12436af2aab0571c342742929549241654612c8",
-                        "2131c61fff866a2d92fad3a078d4f317d0ab6f82aa3d91daf6ea679933378d91",
-                        "6e9ed9aee95abd9c707a0bb2a752de61f9c88cfc2eb11e5c0d01496a79cc585d",
-                        "f9af814c1455b143535c61ad27c127d289291365c09c2bcd4b7e8c49193c698e",
-                        "862031c554b5accce28f8d6f085e3243230902898fa918c4fd8bb421ec155b83",
-                        "4228610b16d1d4fc1f1789ce76bef85fedc6e550f0cce6dfdc37dff5985345a7",
-                        "71b09780d0dbc5ccc39d93dbf12c448ca84efc4e2e62c107356787e85cbd132e",
-                        "aa37096d3d6adf0317b28928e9b7c3a19119e26e899da606809d1949bd4eb916",
-                        "ff3913170f688871597faeba9f1c61263f915475550858b9ef5034a124794ed7",
-                        "b420cd552701c21be2ecc5ecf9e943b628a2306c4a8f08058ae2d695b50985fe",
-                        "cd99927f03c2b87ceb8b475ce5925dd1fcf812f38669212b50a9c80e1157e376",
-                        "55307cbbae543d239b1b3c37caef1be75b09807994adfdc042cc4300563e8f54",
-                        "a2cf5d827421eeab75556c5e7e7e0589d31aed35c5a251b8642e09d3ef05a23d",
-                        "60c2486493855b0bee8746b80bc4f3d8d373b0b249c5ff802fa0a100ace2abba",
-                        "1573dce45eff7096133adf4bd00fcc8224115f7081b8c5f9b539f58b53556d02",
-                        "b486fe561401e4b4dbe89ba8549a4d8bc80d412bcb821a248cd4fb32aea045e3",
-                        "7a896816efb32cd6627653e6ef8c6182ee65ad0b30cd8560fdc517d504471be0",
-                        "aa1e10c0b8d6234c6de90cf1fc71bb211fd46bd919f9e91bd595b4516a9a6f50",
-                        "dfd16d48f48b2ed97834a966e96d99346511e72c20dd47f5415d2f4dd37120de",
-                        "04b3a7cbaac9addb7fcfc2084dfb2fa33ec81f2021c60c1e9ffb53e11bf2d69e"
                      ]
                   }
                ]
@@ -1485,7 +2482,30 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "e53e28b5b24c2bb7cc6df39bd350a603ef2fe8c200e629ac5f1c0ba2640bd26a",
+                        "71f75ca361172096a4b715b80535db7f95d4900d808c9316bcf0b1023be27c8e",
+                        "227810ff474a2c40b86617396033cfaaeea30e9bf45ed9c6d8caeae07d01710b",
+                        "c9a0d67b26a2ef13a0ee1cee5e5537f07f723b00423fae3f8577b25720daf93e",
+                        "3250be6ceda57569fe62beffdf3893bab29ba822985179a53d4b326ef5d8d8aa",
+                        "1b5d5d7ba3af5d71e376f76eab7703cdec1f387c57112d61573656ec48d099df",
+                        "8ad7c726fad877d195d4fb6353415a3af8f7c396d9bcb581f8d339bd24ba25a5",
+                        "23fe30115f749d5eb79d35bc7bff0f77583d64cf90a6cebcc500bb7a616c83ff",
+                        "eb21478b67c88f1bebb6b8d62d25d85d5b687d81a53251005086e1712766e1a3",
+                        "b2ac065b81938366df7737a96095fde3b098ebdc074766bf5633715605c43eaa",
+                        "8e07b14b9e5f81eafb3df2aecf6dfc92223bb9a0715010e2831886c57759fb66",
+                        "f76f343103f64488ef1ae4ba975a926c82d16ef986974bb43f96929b9c08f552",
+                        "b66acf2bed8b513ff7256b2720d9d3f2b769f956efe87130592310619fb8a534",
+                        "3f44eff817170045c6dddd5242c6cb556731447b2dc632331e8e1cc9e5e8dc64",
+                        "9e0633f0e1bbd8c43e5abdb4beb423876a98c009b5f01310b13ae006f50fe281",
+                        "bc4c77ed246a2a40b6d824fbbea01f3a6de9edc3bc26c830132b1d5e9dac05ea",
+                        "340621bad05b3636ed463d3419104e5827b23f8fb546de4494e7bea7f671961f",
+                        "306cadcfc2cfca4520d2679a805c471faae6080165389c2c2a1e9fec4d8e4df0",
+                        "875b0b06ca80d9baa40468243bc0fec0222eaa2c46553428c0986f9bc66965c9",
+                        "edaa47771fd076a69b9464d30717f500fa8358fdec6423402ecce514962fd0a5",
+                        "c9546d24fbd54a0e9a594bc9352c8c50526046b066c6dade2ef97129f44331a5",
+                        "db9e91184b7c63de2cf895ce4639a1e14d6cac6202f29df5111c7d1299c9245b"
+                     ],
                      "unencryptedChunkDigests": [
                         "6dbe51c3b8291628342119b5bcee67829567dc8fe56f4bd687557d864b814272",
                         "86be133b2d43dc4ccfdb8cd21f92b1a41b0b70c7d7f34995ffa08ef5689e82b6",
@@ -1699,7 +2719,30 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "71074dfe481814f68ebb7fe550bf252abb34d180d45510c6e3f5315793fef16d",
+                        "cc013f7228099c6fe65eb1bc3d5d363dccdd259e6d1a1fd182536eca403ea982",
+                        "57d58ba7f3310d14b6e34f7375c5adf900f0953871a24396fbf33efe9eea220c",
+                        "b93c96f158a73e16914f22dba5ca7fbfabf6dcf0366818cc28cb60247e421da1",
+                        "c98b49e6528bf40eab471125a3a93252202bb33b40bb227697afe3b687747e12",
+                        "d090c386fa9fd74b355e2fb1cc028cad8719bdf4ac9f63d9a73fe37c7de92df1",
+                        "31078ac5a807dd880758ed1020929ecfd9c523d2b2391dc66f9dc371bd699939",
+                        "7e5c3b8c2a67b3532691e4c79bfc1e89da3d8a933b99134f2161836b78cd70af",
+                        "2cd99c4f092d4c10c65385f5d5683aefcf577432da3930d1f61fbe7ae32ff81b",
+                        "404b97156c60a924d550b12a10adfad008d354ba85bb10e2e9c1f0df35cc608f",
+                        "8d20d0334ec158bd40f418b703ae669a9803c2d1699ddb06f503413b324a7ea7",
+                        "9b4a6d2cdf4067a43b1ecabb2ea8367a585963353f40217afb1937cf7146e1e6",
+                        "717ae7e78c2748a03e4e2864a391ecda79dc0a097d1f80ef62ccb911dff58f0d",
+                        "5486ae8405a4884b8cb0c8b3bac843ca9edff74c6824e296d1be42b25cb64b3a",
+                        "c5870694624a2fd505030573cd8189391e4588a85ea539c8cbd7339e2edf2b31",
+                        "0ac9ebd1b8f18eb15729eb9c29bd6937808e04f2a808cdd640053e01bf2ecf90",
+                        "2461625ef770b5580fae09a9bb4f404725a77658c9b62714472e7ebb3bbb791e",
+                        "345d0352e7c7eed308a6ee2995a5569ea1f1f9262584c10b0684abc520ae5891",
+                        "03046fad910dacc2703a4ed32793c6fb076570bf8d346f5c18807efb378e7ca0",
+                        "8a2af45796d3a63262bbf7cf726d5071a18db59b7609a9d1b8fac91607041fee",
+                        "4c5db68f700a633736d09475f20ebf32cfecdf7f5ab409d50119ccf7cc8005d6",
+                        "d27cac9a627c50682d53ae791e30f7f7911d01f7e1d5ac766ffff419b20b0d26"
+                     ],
                      "unencryptedChunkDigests": [
                         "f97ae26833800a1b2a98a3c4ef83a21a9edf19f8865a380424b697f981777f93",
                         "c35da11bf33fea5046422098ea61c24798d8f3f5081f623ad0a3ca8f5a03c6ba",
@@ -1723,6 +2766,243 @@
                         "cc997c881a5c47c24537ab712de5b5b9c9b7e88b9dc4910f38d69b1e5c78917c",
                         "3b5e3393b89774c970e31f5665bdaf672696eb703b00a97e18f933fd9918cb1c",
                         "393f12e362621ddf9c5e661977fe16664fc84de3b48ca93403bb92f0c5340869"
+                     ]
+                  }
+               ]
+            }
+         },
+         {
+            "publicId": "7b6320d4-fe09-463c-96d8-3a5b429b9804",
+            "assetPath": "delta/7b6320d4-fe09-463c-96d8-3a5b429b9804.ipa",
+            "sourceVariant": {
+               "installTargets": [
+                  {
+                     "device": "iPhone14,5",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone13,4",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone15,2",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone11,6",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone15,4",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone14,7",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone14,3",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone12,5",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone11,4",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone16,1",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone13,2",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone15,3",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone14,2",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone14,8",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone16,2",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone11,2",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone14,4",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone15,5",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone13,3",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone12,3",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone14,7",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone15,4",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone12,5",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone16,1",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone14,3",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone14,5",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone11,6",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone13,4",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone13,1",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone15,2",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone12,3",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone11,2",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone14,8",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone15,5",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone16,2",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone14,4",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone13,3",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone15,3",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone11,4",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone14,2",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone13,2",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone13,1",
+                     "os": "17"
+                  }
+               ],
+               "appleVersionId": "867798022",
+               "version": "30.40"
+            },
+            "targetVariantAssetPath": "variant/1f0b247c-4b63-4ab5-82d9-301887c9e60b.ipa",
+            "deltaDetails": {
+               "compressedSize": 227454614,
+               "uncompressedSize": 429709312,
+               "hashes": [
+                  {
+                     "algorithm": "sha256",
+                     "chunkSize": 10485760,
+                     "encryptedChunkDigests": [
+                        "3a01ca40383caeaf51eeccc99001df6cad9c9cb7a099292c00e7803f7f0ec073",
+                        "4d8e5e98488bbf41ac3012725ca7416cb98e5ec439c4168b10e87b73c74c9bef",
+                        "69a9ea11ebd831e42cf05d4d2c8447c923481c3dae18dbd9fb48ddc1ba20dd05",
+                        "1bce64b26e3e5c8920851b66a17957f4d40653ea4ba39fb332b3a01a40c99cb0",
+                        "f89829e49c3c023f3a0c3b5648b90742962b833e972c528cb62bbb17beec6375",
+                        "000334066e834eff8effc14b26377bdf9ee5b7209ef659530a001098075fcd2d",
+                        "dcf4ae03ff694312c5606238aa3fbde2d0ec4331925a7f10ee15511778951f66",
+                        "c807e3ed213d081472099688dde66db755b8df7aca8ba5f3a86920b352977933",
+                        "ce7eadde99b5f345248bdf90ee0604b6161437aae66bab755f0e42913ef7570c",
+                        "081b019616174034b1fd3bf02a03dab2f6da585eac0cd8fd97abd939f7becd41",
+                        "c75a26591f60791986b281a93156a8267903c7717cae5c83a39610f18d47ac68",
+                        "3c2450e2769ec1bb3222a588921b173ede36efea4b860b72318b282cd5cd050d",
+                        "91e4dcde68df06c6fca644738688262da43a30262ddc8522a64ac094de958d33",
+                        "a5b27b0400ac48d2f47b6dcfe3cc31cc7b6003b47f259548a862dec38f6f7774",
+                        "e1ea4d92a2988f767146bd1aa2aa8a4d45cb4a84d9cf22ab1b61706f68a96f9d",
+                        "4289489f3589971ecd1b91b0d88bedb7f5fa426dfdcf07172f4809111bd66d67",
+                        "239a1ad94501e4440a301b950a863e24c6bd8d1bcc4e0facffe0ea092a1eaf5b",
+                        "9276f7b7900470bff87840f48d281bd077a6f9e7c6df22d0a0f4bf8b09fd2a2e",
+                        "16c8ada35ef469f900dcb8f4afeb9369ee89f00dda031ea8a853077717371e91",
+                        "e6ad6115aff4276c658207ec828a6cda36d8b963be59074c7c8f9ff40f0233c8",
+                        "4592f20d4826e298f1ceb63ef3699d46b883c03a9d446e5fff5a87b2689d7867",
+                        "7a1e3deae78b6871f83d7e0adf16f24f9ad92dc48759bacae008f0c8ccf3fafc"
+                     ],
+                     "unencryptedChunkDigests": [
+                        "b874527509d3c3134b7507993dabc1cf1343bb13dfb5f4817a5faa9605a70025",
+                        "cb9804068481fe39f8f4dcbb94729a895d0750bd2f59e8481ec338acfc9886e6",
+                        "0d9ce12bc880d809ea5e43bbf12436af2aab0571c342742929549241654612c8",
+                        "2131c61fff866a2d92fad3a078d4f317d0ab6f82aa3d91daf6ea679933378d91",
+                        "6e9ed9aee95abd9c707a0bb2a752de61f9c88cfc2eb11e5c0d01496a79cc585d",
+                        "f9af814c1455b143535c61ad27c127d289291365c09c2bcd4b7e8c49193c698e",
+                        "862031c554b5accce28f8d6f085e3243230902898fa918c4fd8bb421ec155b83",
+                        "4228610b16d1d4fc1f1789ce76bef85fedc6e550f0cce6dfdc37dff5985345a7",
+                        "71b09780d0dbc5ccc39d93dbf12c448ca84efc4e2e62c107356787e85cbd132e",
+                        "aa37096d3d6adf0317b28928e9b7c3a19119e26e899da606809d1949bd4eb916",
+                        "ff3913170f688871597faeba9f1c61263f915475550858b9ef5034a124794ed7",
+                        "b420cd552701c21be2ecc5ecf9e943b628a2306c4a8f08058ae2d695b50985fe",
+                        "cd99927f03c2b87ceb8b475ce5925dd1fcf812f38669212b50a9c80e1157e376",
+                        "55307cbbae543d239b1b3c37caef1be75b09807994adfdc042cc4300563e8f54",
+                        "a2cf5d827421eeab75556c5e7e7e0589d31aed35c5a251b8642e09d3ef05a23d",
+                        "60c2486493855b0bee8746b80bc4f3d8d373b0b249c5ff802fa0a100ace2abba",
+                        "1573dce45eff7096133adf4bd00fcc8224115f7081b8c5f9b539f58b53556d02",
+                        "b486fe561401e4b4dbe89ba8549a4d8bc80d412bcb821a248cd4fb32aea045e3",
+                        "7a896816efb32cd6627653e6ef8c6182ee65ad0b30cd8560fdc517d504471be0",
+                        "aa1e10c0b8d6234c6de90cf1fc71bb211fd46bd919f9e91bd595b4516a9a6f50",
+                        "dfd16d48f48b2ed97834a966e96d99346511e72c20dd47f5415d2f4dd37120de",
+                        "04b3a7cbaac9addb7fcfc2084dfb2fa33ec81f2021c60c1e9ffb53e11bf2d69e"
                      ]
                   }
                ]
@@ -1913,7 +3193,30 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "9d252c2d2792ee8bf53324b6c33f6d133f6f68ed0def927a75603601a0dc45c2",
+                        "964987ca10a338d836a0eb0817136b9718e232687ec8eda534cb6600ec7ee9d1",
+                        "67fc549e367db32bdce965b2ae53dcfa6eb3f20ae7013762ed6bf78b3c8f0f58",
+                        "69053e00b03fdec08373d9726922e18f17ca5c8254719c5b179e89b682f30d36",
+                        "ba81790f7e8fc5188e9e01e7e71aa452f3a6a44d1a1d16a2a125ee4531349e8e",
+                        "fadfaeea8a425d7595d2ead3dc28bac477751b4e5824b2bf4815eefd19cd7cbf",
+                        "df823094e4e9471488e277a30563e015f489971a9bbd900f2a43a2b2a0c86559",
+                        "2c6183df3c012159bc6c58e3d71916490486b1ce36874b7474bc714bb547583f",
+                        "38aebe4ec1f72dcff9d2ee05b2c296009e77a696d3abf0b5547073b152123c2a",
+                        "a919a8cee105dbb73a74f9fd2d2a18628ce336873cbdf65c455125927d846240",
+                        "8201a509cfda1db6c7ec523a44cc337d5ac6ab7bab285ab782f35466400806b1",
+                        "ad245efe9bfc22bf38d5ad8351b21c5c49eefc34ed5bef066b53d34293a52999",
+                        "129585721c66d37142788e0d191c24f3afbadf879c5cf5c9f17772c22cd3223c",
+                        "84381b1cbe091c27cbdb370304a15269bf90da20df94004041494986cc003ae9",
+                        "bb4f58a8648d2309d483c0812962827051e54040df498fe918420a1d97459a65",
+                        "995a67dd6fcd6b39a31435a8f625d434498f08df3e222fc4d52bd5e611588e07",
+                        "3802c43a392d8d2cc7d52cb76bb35a1c653d0f25373189116570e9f235a1e4a8",
+                        "df4180867b3223564b4192efacae86da2fac64fc14e4993c80bd124f2862629e",
+                        "39d3c9b57f00a2a6313db26d311a920d3d7f9f7f0fbd0b175e2106ba912014f8",
+                        "f9f2149eb83ab2e75fc36d669878000be37d60392fb4764c0f6a0970fb194d03",
+                        "4917e42217b4f57cda297abb02128b90daebd5d8beb13f4d9dd9d1b8b06f88c4",
+                        "ad627b630c9584cca1ebea3938fafa9d4502931aa2a3b0663113cd183f16c3b4"
+                     ],
                      "unencryptedChunkDigests": [
                         "351ae456ab0948a26b68d6cedaba2ea6f46173dd1c3a7f5334167302f3162e7a",
                         "d97c90e7f37d8d41b3448fbad4e34b09e17972497c04c4b216b46615ee4b4550",
@@ -1975,7 +3278,30 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "7b16c538d03ce0ab9e1bd56e9ce6c7596355df9247d53ce288a948b3e0e26262",
+                        "4dac706241904c81df8da3a533352ccda3f926368d715f07bafa62de219c1422",
+                        "fee507e0eec721c3676323d87f7aa0485596e5c44d20ddfa590b02268c23b9f5",
+                        "7ce5dc0ff05de9dd3938ce9d8f2fd981fb8deb27b518a7b370c668a227084a2f",
+                        "0f3bbdc5441b0b4d0c38bb3558652f5f0dc3609689ea1c085fb24fa41dfee8ff",
+                        "667cdfbd98c2e688ac01415d769c787ef56ecc5619587f34189fce264be10d05",
+                        "23ec5b9a5ad6cc4aa23b4614c6dadab663e66ec9b2d261ffe62d90cf2898e808",
+                        "d16854cc9cb1a0ac6fdd6903d0a7251f66e928f8b3e2a15f59757bbb10d370e2",
+                        "4e860b4477916d76b1fdd0a184e019452411e98866b628954dc63a114c781ccf",
+                        "8ee0d8a5e71065d2a3452dabd94b1a9ddc978b56c5e23a1fd5b173e36039ee5f",
+                        "92f5981be820141ba30f921e45971a51a5d20c6376bad251aaf95d1f17dc8a14",
+                        "00567f48280f1d9553f34c4f52a7dbd2b118035aa36bf72a21b7b1382ad836c1",
+                        "7f0decb7fda7f8680679816f9513eb52971b31972d038fef42e880053933576b",
+                        "a799285267f95bfc8bf26ba885543c3e9e7793df4f34e682b37379c7c0890d46",
+                        "202b9b6fc086207e194a3aca6179fd557c428b86a78819222a54dcd2e5712a8c",
+                        "017738f51a20df31acef5c171f174d47036a250e1bd39cb18b2588cd3f86cc66",
+                        "8c59c3b3661cefce9e25d58573e31532dd099abaa1a1ca81c3020aad7b1c8470",
+                        "51b7fe737b4e05bd292a570abadb86b4af431284de87b5ff5aed456c869b0ad1",
+                        "ab8a59e1ada486f588925de357f2d4a84e5ee44b1e3f74bc966f6562a807950b",
+                        "e5ed187d7b61ac9b9840dc55ea153c595dfae1243ca9c5ad8c75fd2dda8f6cfb",
+                        "8b8ffbe1a553bc3ede6186d0cd1a90ccb04b57e8941b8ce20b9dfca04012dac4",
+                        "392fba19fd67de8529a50ac2b1dcd0c6bd877c2718d98b6668618da6a7fc6a95"
+                     ],
                      "unencryptedChunkDigests": [
                         "0e0b72ff4fb575d3e096d6cfd08ed32050366e6e636fe48dea80942558438944",
                         "571f3a2f42677118edd742c33ac776c8cf03823557f1ed73bbc49a0256509088",
@@ -1999,68 +3325,6 @@
                         "deceb2d54357bbce8195d57ec0d3bcbf009b6660705d2837467f24fda783ceec",
                         "762cc558b1c815fdcc2b134fad71e66ec38a840b9579908bef4fc9ad540b7b5a",
                         "607c56886611ec57255910b56c9df73f8f937ac34cc22fa7675b3e4a86164b14"
-                     ]
-                  }
-               ]
-            }
-         },
-         {
-            "publicId": "965ddc1f-8209-4ab3-bdc1-4a1e5af516a9",
-            "assetPath": "delta/965ddc1f-8209-4ab3-bdc1-4a1e5af516a9.ipa",
-            "sourceVariant": {
-               "installTargets": [
-                  {
-                     "device": "iPhone14,6",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone12,8",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone14,6",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone12,8",
-                     "os": "17"
-                  }
-               ],
-               "appleVersionId": "867798022",
-               "version": "30.40"
-            },
-            "targetVariantAssetPath": "variant/3def1a60-8d80-4297-9157-c6bb7739ade7.ipa",
-            "deltaDetails": {
-               "compressedSize": 227453917,
-               "uncompressedSize": 429709312,
-               "hashes": [
-                  {
-                     "algorithm": "sha256",
-                     "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
-                     "unencryptedChunkDigests": [
-                        "a3ec2a881d71bff9973a6f4db606b1b7065334ae2a4443c4adecdba8953f5c69",
-                        "bb7ef2c72115405f5e62eeac991535c5d22d422838bdcbb67f3c4d6778a882ea",
-                        "47bbe8145074d32f73c04dc987e10e5202524cee1dbc2d7e38a6d85f3624eaec",
-                        "b0cc129ccb569985a3fad77aee3d8454a2ad24aff92067c09d7ba80af1899ff3",
-                        "bb0e37b4467140039718fa759e2714a766f3cb00c584b2882aa725616290214a",
-                        "7cec2dedcc1708b6b496f1ca662003da729d052ced1b3b7aeafdaa65397d4d23",
-                        "f91f4bd17f4a841eb9b2f1254697b221e5618b0b4314c51595e02025181f379a",
-                        "1376d73c2fa9127a2144db691b3dad3271fc200d41cb8166b40410a3283ab9db",
-                        "ebc0bb697884694c10c53d74f709fdb4ea6f1c756fde3a24fa08a4c002baddcb",
-                        "ff29b49ce32fb67646f63a249348bb961e7282dedc5a98107308e605bf7cf0b1",
-                        "09199fa932903ed3663c168d243dd6c656cefacc97bea3876961538a5d113b1c",
-                        "760f8de42b01342d41dbaf018d66e4b2cc912a1c3f05d9970d92b43e47fd0e55",
-                        "a454ed07408daf2e6936b1efdcc0a508722cab963dcf1e3bb855ab0bf2b704a2",
-                        "dfee5f7efe75dd5597faed6919d6d2bedc9f8d5bf18d0acc6273c6cda74068fa",
-                        "27f8f27324b3ac9df54ba1b908a6e102a32921ce5f25b463a4881414a91d7a54",
-                        "7205c6a697674f257ea739f3f26ece535af307e4616468ee74e463e159a94a65",
-                        "7734836f2c25ae1e947addd76d387a39dacf1cf3771a0b01c976de9bce9066b1",
-                        "23465246a01720ca5127454285d3123abdf463fd006dcba1ae1c889e6e64c823",
-                        "788735d890b14e1bf2d6bd37f380dc3701e66ce063697c139392e87123dc9b25",
-                        "81ecf1b22460a70c400d067387f0bd1b51d8dc050fc04429167ac3d27cc83cc0",
-                        "1680d9a6bb61a082ba69713c9bd903938f4ee0e2dad809c8db3322b98a5dd974",
-                        "f7c10a9b941dd60bce50280ee1feaef6fea16c84a8faeb6c22b905427d20b1d4"
                      ]
                   }
                ]
@@ -2099,7 +3363,30 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "d109120e85a30c2d674c34a57ce0680b72e30832dbf126ee6bdd35f88ba88568",
+                        "b499cde6c9235f6a31fc6393ed4ea977aab7f8efe46b027300b08c1f5d07e6b2",
+                        "2fba1645c08f701c45415a5ec2314e4486c29778b9eed37959af9f01d4d5ab5c",
+                        "7cce5143171e0096752c47d0023ff67b1e50d0dd376bb8a3212634e432bfe57f",
+                        "28f9b5c38d409c567d3ad02e5de27a07a91b08e6a2c0205971859605e8218fd1",
+                        "5116ddae25386f3b74f3fc2f030d8bc0c7f46ca801f3ba9891a308d0632eba70",
+                        "d85c340e8cafc348f38a7ca1679d4410ba32a0abf84d914bed31554b9620fea9",
+                        "1f6a1a0aaa652b0c0e81295afdc99ccf29268fb3784e726e49def332f3478643",
+                        "80c5e8963e5cb88714d0649bbf97620a9f25143ae59ede084f92b1b6c201d304",
+                        "ef81be2bdb065baba5ae23074b236b97d88cf127fc08634f97becec8496b3aad",
+                        "e010fa5b42f81f3f0d8d72174c1e5ad40adebb6cb5f159490a75a02e539b2e92",
+                        "10b15076f590a23b229ee1023fe35a98d0e1894e6e0f11d612547c88fdcc5e1e",
+                        "f446dab15cfb0be338a43a012c3a706ebb172562fc046e2c67e4eee51512a851",
+                        "b649ee69eb71d7b1ed81f4e9466e3ae57d13db4c4ef0e5a7f7591c7bcb25fd39",
+                        "09b118869040c134a49a7c0c1c06208536625da034dcb18cca4f821d6a6a8158",
+                        "a634e9df9957748710581e14e6373becadd172d76ea7326cd9cb769a0077d8c0",
+                        "6429797b9c9f7ecfa95c5b1a0f58e8937a6bc8632c9921e4df89fc1ec760a5d7",
+                        "1aa9c2f5ffb87bb6cb4831d849162e6a923be56ff42603b5b88f50db86629065",
+                        "5bbd765dba96e245d83e14be90ef1640dcce8df63a36c40720f43962592dce35",
+                        "f3e96f7e0fd61e48405b67969f0601bbb61379752e37e7a6f2cc6c277e0f459f",
+                        "48752e2858d3ac7b362ebb2bc1cf62272218b574b23b1e6d7b0418462ed76931",
+                        "9596564ef9c0a6a62646f6fd40b89bf10dc201057e4f4d4cbce4e9731ffcf6be"
+                     ],
                      "unencryptedChunkDigests": [
                         "11e317158496958c4c245698b19ba0bedc8dc89dfbf160e340fe9b643f3f7ac1",
                         "fc40da15ebe3706a567eff85a2b804fb6259ad3e3db6f799c8bc8eb526c9ef1a",
@@ -2161,7 +3448,30 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "c7af412fa9737804f75ce5a13f141fa04caa0361a414b9953694ad38f1903c58",
+                        "59977ce3493ffd4a16d6d7bac0ed9d39485ebd5a43a8139000abcde10889ad30",
+                        "751d1ed3ef92f884bba6e50533f39c2c12f2f8c2e44a59eb15d909819c2d5d89",
+                        "38a3ce218a946068890091d75a65f05547fb106c57c7f669601dd4b009d4465a",
+                        "326027b6bb634d9955d197ecbf59dc014f819db4893bd7db6334caf9612806e3",
+                        "447780066ca30cf67ba756c26ed6c6648551dfce989bca92b4ed38a02e2ee390",
+                        "1e80c766a40ef9c78afa6e853305e9d1258f62dbde197c18e644e4e8a5660e9f",
+                        "a7028aab4db8655683d8d3baf78711f066383063345e4c833b3ee9e048f3561d",
+                        "c28727a70428035a1845dde76d6cd0a38cd7c633ee64ae24d2ffdc910dbf1030",
+                        "383ef19154b82d994adce7ba51d9c63b7cf3b0e926dccd3037b19ad16e0e3b14",
+                        "209e16017edcc51df4b078b795b8221a34e730389ced6b3f327bffcf5af7c934",
+                        "53428ea90340169806c053e57f496858deb7a10151acaa38f2516b1ee7d0699b",
+                        "a333f29ace358129ecd066a880e61dbab5ad52eb02cb9300a3052f89b673f87d",
+                        "6440fbcd8632b0d40548d9595a1a1ff888f6cd43fa30e7b9be05b98a23a2515c",
+                        "dc765ba96ee64b46824976e4697acc009ecc94b144beabf1054d7a39311ce90c",
+                        "70e8b80f8a513e519a3e8ca727d87d9b0f822c772e7dfc48eb3960516d4bcc47",
+                        "3e3f2c29db95168212352a77dd181434e64e9e8bf2c552fc8ae4e8e86360fcbd",
+                        "5d6f13cfbe1d7e8103c91cd63ae7f3e1fecea55f80ffefd2b4a35bb77ab30ae7",
+                        "69f58fc36be76f971d530ad9cfd6f5938ac162e2ca8bd3e67a9a2d1e0efab78b",
+                        "74a7b7d3e3d5dd6dfeff867b5c2932e9947d4e45008788e8087b8fc08a83d321",
+                        "ae1a2441a53db60c993f9f3620f2e0feeb920afa9f67c079cbd4904fd1609262",
+                        "73c55b3889463dd42c90095a7a7fee1636351e09de44efb61dd12adad8219959"
+                     ],
                      "unencryptedChunkDigests": [
                         "3708f821310fc1afe6a63cd14b0fc786eda0fdda2cd9d66aa748db00d8bf2ce0",
                         "ea87be032e79bd49cda2021930f5cc0673ed2e1c6d6c5a7f5b9d095219f1093e",
@@ -2185,6 +3495,91 @@
                         "3f3f71a3de44ecd30ca62c019015c3e8575b9fe4c99b6ff58d7c4c74190b18bc",
                         "370884a0b2f5cf3a72d4a37a4dc35f4a7639dc4fc97ffb5e640287baea3e833f",
                         "24974e9f0b7f491e66ca4c78420ffb981f2cb1716130bdeeaeb93c0f6491c373"
+                     ]
+                  }
+               ]
+            }
+         },
+         {
+            "publicId": "965ddc1f-8209-4ab3-bdc1-4a1e5af516a9",
+            "assetPath": "delta/965ddc1f-8209-4ab3-bdc1-4a1e5af516a9.ipa",
+            "sourceVariant": {
+               "installTargets": [
+                  {
+                     "device": "iPhone14,6",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone12,8",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone14,6",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone12,8",
+                     "os": "17"
+                  }
+               ],
+               "appleVersionId": "867798022",
+               "version": "30.40"
+            },
+            "targetVariantAssetPath": "variant/3def1a60-8d80-4297-9157-c6bb7739ade7.ipa",
+            "deltaDetails": {
+               "compressedSize": 227453917,
+               "uncompressedSize": 429709312,
+               "hashes": [
+                  {
+                     "algorithm": "sha256",
+                     "chunkSize": 10485760,
+                     "encryptedChunkDigests": [
+                        "7f9af8ed6510be4111faad9688b840b6deed83e76518c1d77a68fe0d83d3920f",
+                        "7a4e8dc08b8091e30a930f966b540bd8d7509d2cf939f7e4dbe9c2a41b1d693c",
+                        "3dedf31beca1586a0e2ee4da91fe578df8c874936b34f66a7894d0304105bafa",
+                        "723e3a62823510bcbfcc363ae893ce5a4953076bd8913172be2ce663ebef7232",
+                        "51a4b000220a9c7d8f7ad2a199a33e05cf4ef10f594d57a3b62485f9b5800d3e",
+                        "6f921d4de33e6f763bf868b9f79ef27913be4ae9c84f8f6feba2fb69f423dce8",
+                        "d6064e0d2af317b0614215b7a005e595c58d31951c8095677ade8ae3ee9efe0b",
+                        "75f1b2a142933a3507addf17f80717edb2da136947bae9cbce76893f5657b167",
+                        "a12b841128acdd6446fc796f34ac6a5d8e9d1f5beceeeca1c19e201bc6840e93",
+                        "1d0636b1cf0a2dd675df519da2a086dae2fff9f27072200574239a2a3b295179",
+                        "0582911b46b6c8b5546ac07b868ca60fbedbf8b8450493321d074c8ada9c3354",
+                        "42bfaf39c82083614130af949ea3cae58bb9d21f8a864ab071cce5741d2c10d0",
+                        "18d6b98b86a37ab4c5ffeca2cb7c43b415b8410ec579f1b9559ead08dca6f101",
+                        "9e992555e1c4d13a6246c1783b3377a174594fd528aa5576b22f46350c088ceb",
+                        "29f28b708daed27d1badb0b49e4d88e1b3863fffbc1070677167188acb135a8a",
+                        "3339b114e3c1b7e8678bfba3ed4a87aa26bc44e73694079c6b614688ea4d0e07",
+                        "af35a0eee731b25c534470c7267e187c03a690f2f514c63a0f51a0db10fc49f2",
+                        "2342927201d4aa77cf7bbb20bd19bba5f4501892ce6c8c5107269c7d40415b19",
+                        "5c4986afed54b5c18f0783ad40b21c035cbc6628605485726f7b68faa5ee89e9",
+                        "e3c974dc6b3591f5c2ec27192b58bdf8234d41eb2b4eb64d1e6f1aeeaef60f3b",
+                        "31f51950e7571dee86fc502567faf5f0c59a6c1f09d1fe9db1870faed00ff1f9",
+                        "0a45dd5460a1f214e6b401712da251d28e61e655b3c1237557e376a9b8aa4957"
+                     ],
+                     "unencryptedChunkDigests": [
+                        "a3ec2a881d71bff9973a6f4db606b1b7065334ae2a4443c4adecdba8953f5c69",
+                        "bb7ef2c72115405f5e62eeac991535c5d22d422838bdcbb67f3c4d6778a882ea",
+                        "47bbe8145074d32f73c04dc987e10e5202524cee1dbc2d7e38a6d85f3624eaec",
+                        "b0cc129ccb569985a3fad77aee3d8454a2ad24aff92067c09d7ba80af1899ff3",
+                        "bb0e37b4467140039718fa759e2714a766f3cb00c584b2882aa725616290214a",
+                        "7cec2dedcc1708b6b496f1ca662003da729d052ced1b3b7aeafdaa65397d4d23",
+                        "f91f4bd17f4a841eb9b2f1254697b221e5618b0b4314c51595e02025181f379a",
+                        "1376d73c2fa9127a2144db691b3dad3271fc200d41cb8166b40410a3283ab9db",
+                        "ebc0bb697884694c10c53d74f709fdb4ea6f1c756fde3a24fa08a4c002baddcb",
+                        "ff29b49ce32fb67646f63a249348bb961e7282dedc5a98107308e605bf7cf0b1",
+                        "09199fa932903ed3663c168d243dd6c656cefacc97bea3876961538a5d113b1c",
+                        "760f8de42b01342d41dbaf018d66e4b2cc912a1c3f05d9970d92b43e47fd0e55",
+                        "a454ed07408daf2e6936b1efdcc0a508722cab963dcf1e3bb855ab0bf2b704a2",
+                        "dfee5f7efe75dd5597faed6919d6d2bedc9f8d5bf18d0acc6273c6cda74068fa",
+                        "27f8f27324b3ac9df54ba1b908a6e102a32921ce5f25b463a4881414a91d7a54",
+                        "7205c6a697674f257ea739f3f26ece535af307e4616468ee74e463e159a94a65",
+                        "7734836f2c25ae1e947addd76d387a39dacf1cf3771a0b01c976de9bce9066b1",
+                        "23465246a01720ca5127454285d3123abdf463fd006dcba1ae1c889e6e64c823",
+                        "788735d890b14e1bf2d6bd37f380dc3701e66ce063697c139392e87123dc9b25",
+                        "81ecf1b22460a70c400d067387f0bd1b51d8dc050fc04429167ac3d27cc83cc0",
+                        "1680d9a6bb61a082ba69713c9bd903938f4ee0e2dad809c8db3322b98a5dd974",
+                        "f7c10a9b941dd60bce50280ee1feaef6fea16c84a8faeb6c22b905427d20b1d4"
                      ]
                   }
                ]
@@ -2223,7 +3618,30 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "924e0883fb7c5de55c07196a8c7404e5811d04edb6b1a35be180e04de2315d7b",
+                        "dc740754dde42fd81810d3f9e8f6b95c00158e49cbfafb582987e78a280d5ae9",
+                        "e4e679afdc50e922d7eee59c76972c2599d042ac274e24ae886506120594012f",
+                        "e488111ad5f13f553f466d6bd911fe40fed7e6d70616152edf5628e869f43403",
+                        "762e442996e0c6afc1d5a9c73a8d1a143ad1a8885f1cd4dc884c334ef9908e4e",
+                        "ea585ab45236f949b7ec9d01ca08049814a7210dedefd77d6f3d6aed125e1535",
+                        "e7292f4e6e49059087a1ec3ac4d620e3d7bdb39bd20bc0932ff1308d9f4ccf6e",
+                        "724fcdced7134340ade2c1e0ddfa0340999ef6e8e22844fb5a1e34b2faf9ae59",
+                        "e5552f38fea19daa27f4167cab96f29068d632bcd18b32e42eb7cb2dec0c4a7f",
+                        "148a859c1ef65ee48df74c15edd46aaa4aaec79fbf4dc776ba6fa980b47c0560",
+                        "e665bf8f193ba1135df93c6ce586382e02398c433fbaab9512e612edd35ac84c",
+                        "c19a75182ad738cf8b45e2ba0e76a397bab0fe487e65e621805cb931b8f5094f",
+                        "908916c92bb9b5ecd868be313cf7b79106a66988b955020f8f22d08a20fbfb14",
+                        "c30e9f5d951250f3838e0be8ef3bf899306697855c37b9cb5e35de6c1ec2f4b7",
+                        "6738c37e20bba57f3d52bac35def2726481c20ee4a7c552adad8237d51b6967b",
+                        "e750b222f1925c5421bc03e1e8fd47c6c3483b3cb93fa995f05bfba3e1a14f2d",
+                        "e1dca701acf27be9f61b348bf69f5f605b19e86fabd2aa805a9cc08a97c1a65c",
+                        "8aab5b34db985caa814bdbb00c73002ce971e270c11af6d1224749f1ab5ee2c4",
+                        "97912809f457d006fe81347927635e3c230203b08f82ad93dd448a0accae774e",
+                        "49e4837809b40fa0d32beac2ae6ab90f4abe7b65bab71d5691a6c57a02ab6b52",
+                        "b37fef5d99c9e7e9e5b496b50e14eaa8437774fb72571c78a30864f6fca460d9",
+                        "a3f0f619eefe45ffea6d462d192a7a58f8e4d8a231b313a8c6475a84a34870fc"
+                     ],
                      "unencryptedChunkDigests": [
                         "5e6827cce7b6e2f5f79cfbd6d8ad21a3fc8f27fedaeea41d7fb841a76f8ee226",
                         "f2646189b52f0372515abe34e85411af99d9f14308d9431e5c5ab753bf6b5b6c",
@@ -2285,7 +3703,30 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "d32563ab0424d830ca2bf846cc7b3a3da36d198ffbe9a11472d07d7b4fa699e5",
+                        "6642cba978aca3dcfc8becf48a69197ba3a1aeb8543aa2595270d4462415d4bb",
+                        "55b54058d14989e3565b52e87030084099accec23ec4be0decd3d0b4e8de14a6",
+                        "30430a55e21f9369d341c2d50abc01ad391a6045b644b0c9d231a41c7972b76a",
+                        "ffd7f0b11137509d4769e452f1947c3b55ee1ddaa2061dd13aab38bc54fd1571",
+                        "84483f36949f90e1dfd55d9746ec712065891bfdef1d0fe0eb5667b9b7e30cf3",
+                        "65e97f1ddea6ef3583a3641737f15f2fe4928bdf946a9a63f607e142a144a23e",
+                        "c988cbd1808f527d66ad09d79cdc802900f9ac19a7362d47a11c82f0ad3fd021",
+                        "bbb7d62c318593924c7639f56671749fa4be9d451eb0cfc97373095a934e10c7",
+                        "a53ee2aea33bdcea2bbea6a09509130017835e863971842674bc74c374b9b956",
+                        "2e9b46e6d6d15e6430d8f45645acd4c19b4950bf9905304ec236d1061db47dfd",
+                        "e091d2cd75c90e08018db0b3476b97d788922896f378905424a328bcde79ee02",
+                        "b9f8c73e36518f695b217707d47c5047856536cc881995c1d5990ce715490a7b",
+                        "19b08917846ff3185e327ebcfc588d646bd0a1be0e985413a21af7a75a95ed64",
+                        "dd26f400aac379f959695e812ea6df9ae7ded14730c8a687215daf0b4202f2a5",
+                        "17bdc7ad26db98e153c2f350294a5b2b44c50135a0e5f071ade4a7552eb10dc0",
+                        "c0b1c6cb7eb0654b7e65ac39a33097e1a571220fb710b8b13fb40fcd5e74c62a",
+                        "313d5de16b299829ac58b4e1564a91dd6a9ca53bee1a614a8577a8140110751f",
+                        "b78b74f9c3a0574c6072983043841853eeb90378eff0f706f0290962700ad23c",
+                        "8f98a2fa30b83a9d62f0dcb15ae711aef99bb1d6635737cd6d5abc7906b30f23",
+                        "1f55ada87acbbcc68df1e4982cb852a582880778e90548c177605e36c9d956a3",
+                        "bdfa49176091a347b08f42c90805208d38cebe4b6dd7b92358ff5cab71b7b21c"
+                     ],
                      "unencryptedChunkDigests": [
                         "56cf9dc4bc4161aae2ad4ab1026226da3bd7b5fc992cfc2c3e073bdad0a62a08",
                         "386651e3a21aad025067baed597563808804e21cff9469b43f41f9040f12661b",
@@ -2309,68 +3750,6 @@
                         "f315da75702cebcdd219f2d3e9dada6e673df06de95c040744614e3ec75d9f21",
                         "daf03bc3fcbcfd112d4a54b9ff39adc67c90b97d3cdce11b085701a8e25a55b5",
                         "565e617e4b1153439c56ff5fd271739404648edaf6fefcca067f883077054d5c"
-                     ]
-                  }
-               ]
-            }
-         },
-         {
-            "publicId": "84d21a1d-d617-4c0f-b819-5f0672099cab",
-            "assetPath": "delta/84d21a1d-d617-4c0f-b819-5f0672099cab.ipa",
-            "sourceVariant": {
-               "installTargets": [
-                  {
-                     "device": "iPhone11,8",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPhone12,1",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone11,8",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPhone12,1",
-                     "os": "17"
-                  }
-               ],
-               "appleVersionId": "867798022",
-               "version": "30.40"
-            },
-            "targetVariantAssetPath": "variant/41276fac-159a-42ef-9b30-19a5679c5a2b.ipa",
-            "deltaDetails": {
-               "compressedSize": 227454389,
-               "uncompressedSize": 429709312,
-               "hashes": [
-                  {
-                     "algorithm": "sha256",
-                     "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
-                     "unencryptedChunkDigests": [
-                        "c07bfbcb5fbbf2b31235c5dddd8f63a3d65a25e1cf9eacaf248a5b37650a5bac",
-                        "c944c8baa8ff523cc9041147b86b69959b0df556d8a4a13f6e0a959c82ff23c8",
-                        "ee981eff3df0e6e333bc48dd57027072954c95986852c7f3bf78fd6678e1d556",
-                        "2d17c3930b4e2ec42f463c72e8f382c2993202f0e3f85d06d1f1bd35239ef452",
-                        "aa267d865951146b8c3cba5708baa72910637d01239e7fdcdd7a4f054598ce7c",
-                        "90ce77d788e6d1cb156c894b2d568aa74fbafde9c10a40657b27234a487cbded",
-                        "ce4f0031ba1c49b47418a385be11c56b52ee42a2523762fc8d1b4818d284a403",
-                        "8ca423d2f7b5b230160b35a6092b97f2754bed2861b7b7ddccdc6f4bc2409b47",
-                        "e2e506ef73e398ae453f62b753e81f0ec28116f02a706438ab9020f73b3cb5b7",
-                        "76c98e218b72d68749786cc90e907f5953e416553c42c2a6b09415e5a1efbbba",
-                        "934f5e08fab71475158e239d86d976d9438fa2d0305c295865707a4eb1370b63",
-                        "0ccf234672d864a75c37d051075b77fb041d1224a045d12859c1c1751250a0f4",
-                        "804daf1b923b2ff5eea27746cc0e0d3e559c2905b1b7f7b27b345fdd3ae4e414",
-                        "906ccf12bc00ca283520fb62e761f49ca6e3dd941c6fb2fa55ed19d73a356886",
-                        "b674158895ede4ad5a18326c4ef490eb028b0d26248f102398cf42e98a3792d2",
-                        "731355ab0a52f1863b6b42bd7b55797923de6a826dd9f8d01120e7a7415a0a2b",
-                        "7f931ce2ae6c30502cf8f613ad5570e351a83a110be4fc5c8f7515d349427709",
-                        "9ae92111c41d8d8c51a5df2c8ddcb315a52dadeaea051f98cf532fd6ec60b241",
-                        "03cf11147dc1824d7a9ad48826adff7055aae91007f28973f2976dbb00b294a1",
-                        "a110253df51706b980cc3632020396864d056bad0f96082c2f123e643bb0c45a",
-                        "b05438458141e0d350bb83adaa6e2919b31cff252a2979d8fc79f352de1fd806",
-                        "b127b5b47c64406e0ecb48acae4c1d9c6ae3de30469726ab017b14f3ae4f64a1"
                      ]
                   }
                ]
@@ -2409,7 +3788,30 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "80f33ec205759971e60b20a836cba1ff7fa2e10b5109dd763095a76422003383",
+                        "9ffff88bb2af2bb6f4828ae4fc7298cd7b1f2de0be714cb4d435a316e58c6dcf",
+                        "db81c8229045c3e4afffc35689c464ffeee8384e2b2214690de5d264c07b158d",
+                        "b03cff4c73765d946bafc136f14a899e7158f6100da69e04ad3b30f250eba7a4",
+                        "39b45d832d81c518f1037ec15afb9730a91337387fd74179607af518bbfc8b40",
+                        "ee324ff527a26073145b3ca1e568b5ca2e1c1b14b93ad042577560f05f112f37",
+                        "8398210993666f4c75ede9add15df1a51b9fa36be566db0edc493faaafdfb398",
+                        "31ea9472b02c7e329f8ff06b0dfca8f2d6c487e70e7ccf3952dfc4a5574abd04",
+                        "c533d77c2f69f1f48fdcd196db2a5b42ba9a1e2ce8f7108f086db7149fc413a3",
+                        "34916344414898364a8fce7d0a33d0e57a020d8fd4babd4f269f10d6174e5f24",
+                        "3ed5b252334abc1622de88947ae9aead5d2ca48615cbcec3753673d82078ce79",
+                        "5578eeff001f9dbfbeb206acad9c3057c79247ab33a12b832b5eae5598c19fdc",
+                        "b27187713fc2bc3f17eac384fac063e46b1af2b43644abc49fd685344eab60db",
+                        "3d3b1b862d3d3094ac25efc859c3d76d069f24a9d15fdcaaf04b0bfbecfcfd18",
+                        "9f1926957e43af40a0cd3eff95146c40cbed51942afaf5ae28f585c04b4940b8",
+                        "ac08c4069a2a1de3407d09b59cf5f4b86758ab324450b3c7c13a7b83a8bb4fbb",
+                        "08fd95dfc948a1ec08e1335166468f73e1ee09484a2a944cee07efdce86ffd52",
+                        "c53acf8167aa1fe128bb10452a202ca9b79003da955419af75d94b8c8cbbac3f",
+                        "cfa18b3f9155fc00ce1586c5109dd847d23ce00bf6a94d22cddf23581a53be6c",
+                        "60ca25854afaecd339d2e38a3ce61c306a3c7dba21dafb15d1011fabc3fab773",
+                        "187852849e45b2148908b6fd51543c06d9f9fd189abbeacd871eea42063bbfb4",
+                        "9b16cc1a74968d2000d39852bd2630afd510a7123f1dba5d70a285905770ad3c"
+                     ],
                      "unencryptedChunkDigests": [
                         "aa43017af514f15c51e4b1237bf14c20ea29128d0148510db7493b71b63a3e6d",
                         "f3fe6cddaf2484ab3148b98268b665cd866d32c9fff852825d1a0fd09ac3948e",
@@ -2471,7 +3873,30 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "4747ba8087cd13e3247b783e77f300f694d894030342397a19c24b0539fddf6c",
+                        "35008521bc6b5e6f7736c8261a2f29f3f116bbe4fab1192363c161270378e94a",
+                        "6382192761184555990fde36066e78425f9380293e2164d4c831bc120a1585c8",
+                        "14428ebbb5fa2b624b431f050bb4bd5b614008a9944f7ba85d7864e90ef628c2",
+                        "f0906ead36e22d91b85afdf1e3e25f1b280731ef49252710765780e977cff2c4",
+                        "47188bb86c49145b6847a646753835e8bd7d74d358f1e11e2249c78e3da50f7c",
+                        "ea84e441014a274102ea91d90f7dd4a44df4e904862445f7924fd8850feaaaf7",
+                        "b60d7c4c77a21c0f11226f0f96d3ecf6657337cf93829c37b705f23f0d339de6",
+                        "498cc9a84cff0824951286eea57045c49999c14af34a97282ac89d4cb8e37aaf",
+                        "35734dc44f83ca7a8c9b2703c480fae5146138a307cbacc90591506cefc0e067",
+                        "358efdd235272710ff43aea6f73a2591120153a4f979c97129b08b8affbeba14",
+                        "081389ec959258ed8672c856f2ff5b36b0dfba157c49361756e25c5a466a97ea",
+                        "760939167194164aec8956e20e34551607f47697c5324edde23987710d3a0d36",
+                        "ff27c845f4a71b6365db422212a0814b599194b6150ce7795a43278a00f398ac",
+                        "645fc9b85b99d7d297bcbedad9edff3a87cbbd0393f6ae5db171d525fa143740",
+                        "b1b16151d5d4e943998083e13f48a142255968db8cd99dc90a88312ad3d2f1d9",
+                        "6386ed39cae896e1895a267c64f8c320f85bbe9a29e092e045ed7101ff7f91f8",
+                        "a19dda8b92c8f4defcf62a6f07aec24e266f5ef63b183016e1bbd26a6c0d4050",
+                        "0d98dee8bd1af9d9fa64e42dbe0a315b07f9ac731d705c462fe8a0b84f25bdc6",
+                        "f7aeb7309e300587cb08c717cf4f326b1fadd32c054ea5cd4e35717b58b330d9",
+                        "f36e9034456b29ff6df9e994d11750eef4d71efd788cac5beb94ac9920da716d",
+                        "ba3eb6c401c699bf0f21d4a4034dc02ea617a813c468f64a506b846e939f2804"
+                     ],
                      "unencryptedChunkDigests": [
                         "be98090dc3c494bf0ebb11bcd71b8f2a2978af58facbc51d6d5ad3de1be8317a",
                         "f3fe6cddaf2484ab3148b98268b665cd866d32c9fff852825d1a0fd09ac3948e",
@@ -2495,6 +3920,91 @@
                         "ab08a8be2b2d85731d21316efb8ce883a03b4b3d8ed8546c529a737b73c7ddbb",
                         "dd4359741f1780a9825b71dcb8ba634efddd0353f24a4c55be6a79046a9b5d00",
                         "c56a5e75727c9dc9d9902e82a835769fff1e5c594e6a2b8b9835f8fa0ab28643"
+                     ]
+                  }
+               ]
+            }
+         },
+         {
+            "publicId": "84d21a1d-d617-4c0f-b819-5f0672099cab",
+            "assetPath": "delta/84d21a1d-d617-4c0f-b819-5f0672099cab.ipa",
+            "sourceVariant": {
+               "installTargets": [
+                  {
+                     "device": "iPhone11,8",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPhone12,1",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone11,8",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPhone12,1",
+                     "os": "17"
+                  }
+               ],
+               "appleVersionId": "867798022",
+               "version": "30.40"
+            },
+            "targetVariantAssetPath": "variant/41276fac-159a-42ef-9b30-19a5679c5a2b.ipa",
+            "deltaDetails": {
+               "compressedSize": 227454389,
+               "uncompressedSize": 429709312,
+               "hashes": [
+                  {
+                     "algorithm": "sha256",
+                     "chunkSize": 10485760,
+                     "encryptedChunkDigests": [
+                        "6f619a66117c329967fd142ea0eefacb65b9033940e8f6415a63cfa4b640ee53",
+                        "232319c55cb47b9550d4411144832724d3cfc8414710b96d54e0333932a8df5f",
+                        "dca3ff2d2b1cb45b573b4a4b54bc6d13f9fb50b26bdfab48763772109023ef22",
+                        "f63d3151c8f05a0c87327d3dddb7cbf0d861e9a65091956cf6ec2a224ec85751",
+                        "e01fac7ac13176f28adfe4de851b4e04008dee1202f059c1c00c00beb955e947",
+                        "5d8d9911e997d39817dc22ee6d1b8d1d7dc37c63338f6b865c82627ae23c9efc",
+                        "de1f16d27244f1b35d549a63b0e13800c85d7ac0e421b3017af4f62700d2ac10",
+                        "e1eb3237a09800576ee1e81b8a08eabaae7a7270bdf8c081c5433f10241334dc",
+                        "0db7b3781de276b6cc52b5faf6d7f9c4cd67ea7365617b2c43bc4ea8f6e29297",
+                        "53a051b6f0a02a7bc79ccb8b86652c264621ce14d0141c7a9b06fd121ca88894",
+                        "d7658b8fa2524d2c0f7dbc2929b59da1fc419ace0fa0f019ed80f68f64cc9357",
+                        "0e526169c5f44ea69703fd1b965506ca18d48de13b4e6c03729a27f1607cd21b",
+                        "3fd1e37c4c1a25e75ef55042c12aa728ae9a2b5d32ef3fc58372897932614161",
+                        "06067b3b4bf75d8687e0f457be236b84c5ef7a838796496faa38d6efc1120121",
+                        "bbb55da067de6e2816bbe469d3777a648e4ddde3b1a8e4ab486a3e96ef400180",
+                        "9d9618e0b0c8b3d02869c4fec4ac6f9157fb73793fdcf775b5a77bfdd2d195e3",
+                        "c8f3247f4a202db09f3e6f899008d5bcad5b5f266a42ccbb52ef0f63e75215ea",
+                        "38b7991551e166730aab5d3ab4a10e00a118519013e68b8e9a9f213e9f5b172d",
+                        "cd6db404a032994bfcbc4918026e32206fa0ee7e2c0a1ce424d5c3ff0f3fe0eb",
+                        "e4822647dedc730255b47620099f58384e36f77e7bff4048e92ebe75f4deef99",
+                        "9bf2eb6e1e020647e561b76f571b4b027a33caf4266e788b5b76c9335db3c296",
+                        "4ce4f8b169ed993e20d4914f3f1f84d1dae5fa8f3131c3970f5ed062e61d61b6"
+                     ],
+                     "unencryptedChunkDigests": [
+                        "c07bfbcb5fbbf2b31235c5dddd8f63a3d65a25e1cf9eacaf248a5b37650a5bac",
+                        "c944c8baa8ff523cc9041147b86b69959b0df556d8a4a13f6e0a959c82ff23c8",
+                        "ee981eff3df0e6e333bc48dd57027072954c95986852c7f3bf78fd6678e1d556",
+                        "2d17c3930b4e2ec42f463c72e8f382c2993202f0e3f85d06d1f1bd35239ef452",
+                        "aa267d865951146b8c3cba5708baa72910637d01239e7fdcdd7a4f054598ce7c",
+                        "90ce77d788e6d1cb156c894b2d568aa74fbafde9c10a40657b27234a487cbded",
+                        "ce4f0031ba1c49b47418a385be11c56b52ee42a2523762fc8d1b4818d284a403",
+                        "8ca423d2f7b5b230160b35a6092b97f2754bed2861b7b7ddccdc6f4bc2409b47",
+                        "e2e506ef73e398ae453f62b753e81f0ec28116f02a706438ab9020f73b3cb5b7",
+                        "76c98e218b72d68749786cc90e907f5953e416553c42c2a6b09415e5a1efbbba",
+                        "934f5e08fab71475158e239d86d976d9438fa2d0305c295865707a4eb1370b63",
+                        "0ccf234672d864a75c37d051075b77fb041d1224a045d12859c1c1751250a0f4",
+                        "804daf1b923b2ff5eea27746cc0e0d3e559c2905b1b7f7b27b345fdd3ae4e414",
+                        "906ccf12bc00ca283520fb62e761f49ca6e3dd941c6fb2fa55ed19d73a356886",
+                        "b674158895ede4ad5a18326c4ef490eb028b0d26248f102398cf42e98a3792d2",
+                        "731355ab0a52f1863b6b42bd7b55797923de6a826dd9f8d01120e7a7415a0a2b",
+                        "7f931ce2ae6c30502cf8f613ad5570e351a83a110be4fc5c8f7515d349427709",
+                        "9ae92111c41d8d8c51a5df2c8ddcb315a52dadeaea051f98cf532fd6ec60b241",
+                        "03cf11147dc1824d7a9ad48826adff7055aae91007f28973f2976dbb00b294a1",
+                        "a110253df51706b980cc3632020396864d056bad0f96082c2f123e643bb0c45a",
+                        "b05438458141e0d350bb83adaa6e2919b31cff252a2979d8fc79f352de1fd806",
+                        "b127b5b47c64406e0ecb48acae4c1d9c6ae3de30469726ab017b14f3ae4f64a1"
                      ]
                   }
                ]
@@ -2533,7 +4043,30 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "9f36cc1aa98139b55e22204c833f1c4340d322761efa367de3fc216cfcda5d02",
+                        "5280b1c527d5129564005a3e7171ae31adfebc7c7bd3abaa8f5a8fae0889a7d8",
+                        "ac1f04a2b12761b40b1284b580514d6b48363d72600e5d529171d17c91b5973b",
+                        "287e2c372055778734304e0c1d9719f9ffc304055b1646c7a85b06c0263d8c06",
+                        "aebde46057c1fa14b40a9affd951083f09e53f0e6625d2853ecb466aac234f2e",
+                        "7e36a10f331a65e99dc492a3ee882fe1fb76474b6ded33b83c919d37cb312a43",
+                        "436addcfe22114708c50e1b0b6d2481ac48bf02a18c485ae7b43372cbb75ab1e",
+                        "5a416068850dd98f24d5443194d7ea5e2b3d4eb84350db535ea6dd401ebb48ff",
+                        "9b5c1b340b33ae5cc9d315baf73b5ffc767436c35cea37c39f9f87bb3a06326b",
+                        "b5fc267527435a1dbc2e018137738f15abcef7d08198f84ab8b50830f106c883",
+                        "d34439d8bd8ba421e5be8ea940bd2dd739a3876f57f907f49c2cdb7c2a52c653",
+                        "cf32e1f9f02645c03fa550677479ecb1c6346c70d43b84c6c417e32990797d2a",
+                        "6b17d649a6414b02c041c441fa98ea898d895e7389c713c7ed8d370a5ec08a27",
+                        "c3e23a4e01dc6587ac41138eba11c3a1731b68b5a9cc9d925d580757416ea28e",
+                        "92c13ecbf75c5909ebbb67f9c314a7ea35cde94e4a602c267bc59fa594eef9ca",
+                        "20d68b40729ec9d2734c6b8702089c0d524b519c177f7a6a6a6009325d18fa04",
+                        "a31973707bfea0d14be2e08c05e9dcd147a303496584d7481558c61972dc65f7",
+                        "32c3ff9295b5c7206bfcd0ab26cc91d8c6160a4b0bb80ba201f876fb9cb53bb5",
+                        "9eef41372a1fc00c29436e88f134e71091b2f3fe508b26ca6ec092f33f7684f1",
+                        "f52c34def9b86f0003e3c29837f0952bb5af687c3514d3a53f90ed684a2b6c94",
+                        "5a86b739e68d1d221c934f360ef39070d1e97f408ab91bc0f4b976a7cd390750",
+                        "94ae360db56e69c2eb25b37ef8ef2a18221651fd59df9b0ea61e9362d6bc2b27"
+                     ],
                      "unencryptedChunkDigests": [
                         "1e1e9839d2cd603bb0377a3af7123d138190eab58153816df60a56f2e86e378f",
                         "aff2fee478855709357f75b2dd2f13183a3e458772b5e812e3ae5e23272362d0",
@@ -3043,7 +4576,30 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "51fc26f66c46b649cfd56fc120eaec7199e09df11c2db7151cbc38f7b81bc3a4",
+                        "4de0d1fd5af551af7c6b78d8dc427c4c9fa202741fd0a54d9525d262ce040a52",
+                        "73f0e8a5410edee7cedb618c2181d551b5eae428fb273190c4f56915ce037e45",
+                        "5c17acc26405d8d86c5ee40188d86e0e476db3b9319e1128adebd2d8fe42eb03",
+                        "c696c68ed17fcd98a4df0902e3f45bd3c234ce3f4ec3b7acb1dcefabee6c4b4e",
+                        "6c188688e1aa557761cb7b5396ebc21d1fe1143a2fd48629e562922ee4b88cc0",
+                        "02a5850d9b973482021d07a3cca34ab362f60528a2d641f311750302f5400c1c",
+                        "88c86bfc37f047a94c1cda81a1c7203b8ca3b54dde0c1983b23e00a83d339ed7",
+                        "31d2c5f533be56061c3bce5bbea1fcc57163a679cc4f66f34a1d993fc50193c1",
+                        "52191edd42fb1c09ccc680e58a3cd4433c1f8c594962074ba8063bb86171f01d",
+                        "4aa294f72552d102651a93bff9ff63bcaf35895562c69b612acb6065efa8b656",
+                        "daabc760f3b9b18a3346572ab6297a6d2d1e30ef8dd1688487d46026f4f9eabf",
+                        "1aeb9ace052a4e664a527a67526b61b400c1ba30bf8237635ecaf3d3a756cf9e",
+                        "11d8580c590b5c20b3535d72ba8b3c7730e807a825b09b3690d1700a8098b4cf",
+                        "b30f84a7ac9f319eaa8de9bba0784074c009da694ccfbe9d3b28f741dad8ca87",
+                        "e185fb45961495255732bf8494c46a696c6275db2e693b5e9be536035da44677",
+                        "212bb6d8b5eaa9650e830211b676c1158397afc7593dab0ad9aab2037f4a86a7",
+                        "43cc5fe9f58f902481b12628a8d12d227bee6be0d033b0fd8aee59c0b01abba9",
+                        "0ffcdd363fdc514e58eb544d154efb2e73a7bf4fa49bb6f13fa2b80c811543f7",
+                        "19811314c109c6f93d7194b45a9d7ca0688fc120e73b61be743e2dcc467bffd4",
+                        "0a8f501e579fcb8819fb859ae7050507e27e426592e586a024a1e726f273abc6",
+                        "b4d673d38ef167441d144563ee95a1db957d864e9714b98c9cef817e6626f33d"
+                     ],
                      "unencryptedChunkDigests": [
                         "476fe7aba45af84ddc18f4ee7d582cdf03ad4ed73bd554f7a609b8dbf6d3b11c",
                         "02564b357441a87a3eb1c777a606837c95ce26ce56ee30930d66c91966cf2b17",
@@ -3067,516 +4623,6 @@
                         "f43c7331a3d83fed08db8192d3ffcc77270f6e74d20c3c77518402ab65062efb",
                         "7dbd0572b1ce80b115f32bfe6d19c9c36a3b0fd92bd8ffb800aae09669b2c051",
                         "63fa01cfa845ae31f133158766ac5a281ba3359ec2a5863b318fd34d010a8a65"
-                     ]
-                  }
-               ]
-            }
-         },
-         {
-            "publicId": "69892de7-ba0e-4e55-b642-d5956a2f4f15",
-            "assetPath": "delta/69892de7-ba0e-4e55-b642-d5956a2f4f15.ipa",
-            "sourceVariant": {
-               "installTargets": [
-                  {
-                     "device": "iPad14,2",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad14,6-A",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad13,6",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad13,5",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad14,5-B",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad7,5",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad8,3",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad13,18",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad7,6",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad8,2",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad8,12",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad14,1",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad13,7",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad13,4",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad8,12",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad7,6",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad16,5-B",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad8,2",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad8,3",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad13,19",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad7,5",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad13,18",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad13,7",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad14,5-B",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad14,6-A",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad8,4",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad8,11",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad13,16",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad13,8",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad16,5-A",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad13,19",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad8,1",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad7,4",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad13,6",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad14,5-A",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad14,6-B",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad7,11",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad8,10",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad8,5",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad13,9",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad13,17",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad7,3",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad8,7",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad13,9",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad14,11",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad7,1",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad8,6",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad11,1",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad14,10",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad13,8",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad14,4-B",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad7,12",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad7,2",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad8,10",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad7,11",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad14,8",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad14,4-A",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad11,2",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad11,1",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad7,3",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad8,5",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad16,6-B",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad11,3",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad16,6-A",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad8,1",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad7,4",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad8,4",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad8,11",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad14,3-B",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad12,1",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad11,3",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad11,4",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad13,10",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad16,3-A",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad14,9",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad14,3-A",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad14,3-A",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad12,2",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad11,2",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad13,11",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad8,9",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad14,3-B",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad11,6",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad13,10",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad12,2",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad8,8",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad13,11",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad11,7",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad11,4",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad12,1",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad13,1",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad13,16",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad11,7",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad14,4-A",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad13,2",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad13,1",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad7,12",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad8,6",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad16,4-B",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad7,2",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad13,17",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad11,6",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad14,4-B",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad8,7",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad16,4-A",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad7,1",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad13,4",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad14,1",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad8,8",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad13,5",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad13,2",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad14,6-B",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad14,5-A",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad14,2",
-                     "os": "17"
-                  },
-                  {
-                     "device": "iPad8,9",
-                     "os": "17.4"
-                  },
-                  {
-                     "device": "iPad16,3-B",
-                     "os": "17.4"
-                  }
-               ],
-               "appleVersionId": "867798022",
-               "version": "30.40"
-            },
-            "targetVariantAssetPath": "variant/162a0ce2-d1ed-4a62-b8ce-2934a18246bb.ipa",
-            "deltaDetails": {
-               "compressedSize": 227454715,
-               "uncompressedSize": 429709312,
-               "hashes": [
-                  {
-                     "algorithm": "sha256",
-                     "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
-                     "unencryptedChunkDigests": [
-                        "2348c3efb8df321bf991ab1b7f736111183d9f3a9f22e574c10ba7d378544748",
-                        "ef122810a5fcaaa7f5ec72c802e705d883082499ef70cdac0022bb8bf6f61eb2",
-                        "1d76454c1a770cc7bfa7d408187c654d84fb308f5f4448162b06a97ce8b9b4cc",
-                        "07cbb8fd8391980e19c736e7ac94c467ddb6b9b61d103da4d2121cb65b37febd",
-                        "6443cfc6d050bfbee24af774d29029475935393487af63229aef2d6a52f1f226",
-                        "02f8e26fc33a58f5eddb47bc23e4d531c809f3e2d3fe6cbcef6e26a3bc7916ba",
-                        "0159c46199efb1936c444298d9b32291cae0101dd4ac2760075012d2d734c2e7",
-                        "327dba157b3e765d3ca9190a38af98292992b5f8cf2207cb4751674b68ed99f7",
-                        "9dfdea0a680cc2831d2d01763f57491360e73e2a518a7983810214c307a84662",
-                        "8eb7feb986b9ec87107180efea9ce26c82dab552a8d1055568cd31369e4eeccc",
-                        "e10b3aed8196227ec2d9fa4df868a3f0274d8c3248fe6ca76ef3e5c66ce1c314",
-                        "84b1bc931f7c8ed5b08881f4b15685c3c45504717dbbc6bc34e0fb85ffcd6467",
-                        "a8bc80e5fe2b411c574c23eefc114c21b1ed9efa9f0afa2e165547bfc04bf2f1",
-                        "d96534769cf42c783194edc7160e00cd5a9870d97a210b2253cb42abeacd88ce",
-                        "bbfe499b79089bc0f05a70be6de53205e64beb3744b7ca7f63b097615e2a310f",
-                        "1c26742715a1619df76e1cad95e354c286dde1b4d3a5f03793e1f68b9e5504bc",
-                        "19b2c13f748342224b2ace0ccaaf3a8162cf66d0577aa238527f92c84a23d775",
-                        "652c735ecb0d87228b8178e2b1ede72808ec269ec25e900120d58dd62ae092b6",
-                        "44439d23f55c267f7d705a79ba5d4004b72e2bf88a0a2a3d407fa2cb0fa251a7",
-                        "5d58ca4d7b0fcca4e8c23872b7db364d82342c189f08f644cbdc7be51aeab5cb",
-                        "4b26b653754b6f4fc55508f37796fb60d4f2bfd494da4f9ca98ade2990f5f2e7",
-                        "3c415d7a5c04dca6f7e80273c7f64112e6f565ae4a2b64e5df3f41849f0fbbed"
                      ]
                   }
                ]
@@ -4063,7 +5109,30 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "2556a8da1e6ac948ef0a610273d16fd8054ea4afd6f6f9d58e9778a2681b5c1c",
+                        "98a4bdba86708a30ebc3bbba37854a6f191d3a08d22eff401d1d1a489b3c95ca",
+                        "43214b1c8619f98f3021b0d10787c9e744e904dcafb7ea4fe583cdb904c561e0",
+                        "ed37906380d0adb9f327508c9aac43126ac0f33d896b57dc84caa2b782917ea4",
+                        "a3bd1bd8d35aef71cfa7a24bec83e3a67d34ae64527db8a876e9843c00837a28",
+                        "cf33274e24c07ceb490da9399267d0b06fe848cf1e880be6a90f9fa331463d1d",
+                        "23768199b17b395e900fa5e80b8d6616321857d79144a801af12729707c42d24",
+                        "b6ade4836ce2acdc01e6951de5aa1083d4c435def499bc04a553e1ac11923f50",
+                        "a159db892c2b23334ffe85e9e339faaa7df98f1474b83270a8a4463ad431a9b0",
+                        "d171a0aa82805345c008ba94d0a3fc1702d92c3e225586045b6599b1919c9089",
+                        "af8c90fbbbd2a6c2811324f09a52c35641ea8bfe185434705f247e483d5043e0",
+                        "7e574825c645c8c0a9aaf1d7386f2cde34bd0dc450190e0d0ef6363bd86b1243",
+                        "14b84d4a95355b46871011076e75c76082bcc89d6b7e190a0662b2ed85a8b0a2",
+                        "1e30e2a0c45690972d1587115e4d3efde745b8578c5ec59bf28c67933d7bca4f",
+                        "c8a4c78a0648f5acee9eabbb700311934159b3cdbb893d7f4a937346c9963c2d",
+                        "c0e19c7467f982185313ae782f9ba77cc8077f5d8fb4959fdf42aeb1d0f2216f",
+                        "83bb7ad030e2d7dc6cf43406be2f344ff0c8542edb0905ca1a43061c53cc85fe",
+                        "511e125c104e8f6ddf9ec0775bbb34497dae07a11b60339789afbbd30b86eb4d",
+                        "8f3f2349259eb303affb7e650c6e783cb056171d66f4dc3a7622f78a398950ee",
+                        "190cbe7508353e1562099d9cf9df7080fe68b6bb8bbbd3674b6bc202d3fd3659",
+                        "577023c9c84d73927d81d686ba03d3309a3f42cf66bfbba6e3daadf1f3a883d1",
+                        "40e286ca271c4f59946f041dca0d429e7457c8f4ea723e9991bd74870ae0b77d"
+                     ],
                      "unencryptedChunkDigests": [
                         "f4df270c38042ea90caff5e00ae82ebf798deefdad3fa298ac6bf281c84cdaa4",
                         "e554cc48b9cee609aa486c3b941a90fe76647d3c0c01ef15bcce771e7fd67bc6",
@@ -4573,7 +5642,30 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "1beaad5102c9a2c1e690c9e8a360a18f1f47abd7c81a1aace2380648e95f8b0c",
+                        "f53354f0e03026db45f05e14d80ca8cb26b2663aef7d00cbe972e8cdf2eb644f",
+                        "952abc177fe3a31b201fc00f749447c320d9f6d894121db22d65ab27b583635d",
+                        "733578adc9ced1146a53711223df216e8c387d9b7c9932951217b58513787699",
+                        "5cef0c2aa97b1ba85b68b3b2d8f2ebe0fa8e5e7f95c621affef4f66286037d76",
+                        "8eecc8fa151a391fabd37044d88c2605c9e5ab22f23b20f0cee5ba6c420765a4",
+                        "d8be70f3f5283fafcd6a71f8bb0c5dde9c7a123821c6d8741e5eaaa23619d1ca",
+                        "3c7c37a47997ac992011bcfbdb6d641259b4e626e9feed8819fa29d512fe917c",
+                        "f6a45ca5c8a45d89c5852377f6a165a0a10e0884fdf92c9efe906fa57a1446f3",
+                        "d0186405db031366a3c339bf8af82a3000a2ac92142c5b8b6a370c4989f38bf9",
+                        "837d9aed82156fe543f147cd430697dd4073dd7d91fdd8aaa0eb7da02f7e173c",
+                        "42ef390f43ac3423ac225b1c36a557b58b0512a50bce60f5ce2db2cd1cccbb81",
+                        "90a8a166599dc9c234af8474c135683812a06a6af4244466135cb5c1bc0586d2",
+                        "1030cb5f6db4e34d49a1e278e6bd2485c159ddfd34426efce609bd34ef152a56",
+                        "9e228e8106c0d6f7f5c61452b1c9cbb62dcbe6d9d76dfad1e3ef53672716a467",
+                        "66eea93edec462d8378f8937d29243b950b31882250ef2ceb1c5315a343bde17",
+                        "ae60bad17bfd82c22a9d95750b4cf2e07484b9794252382badd91cf07028c9d9",
+                        "fcf83015fe3723a06767610c9aff5a5e929c7abb0fb6275d6819560bc40d717a",
+                        "9144eda3b9e3ed2015dbdaed44157c85bae21682c736265105affc5c1220484d",
+                        "1fd9642d163e0316ac1cdd7819afe6be3a4d2f7f4307b3256e1745bc72d456bc",
+                        "4cdc236993500793f9c16b2e39b2a31da0b764ea595eea40830b2277e9125c33",
+                        "b2995a2028c4ae104c453e7b286df8f37b38e779b56b14fe9520eaa0a7486737"
+                     ],
                      "unencryptedChunkDigests": [
                         "3114dcb905dd2d93d50831bb602545cf6bd7d92583a8998b554ced635ccb1397",
                         "af67a80555f4e3b5d3f5de07048998a0642a5a86037f7052837042dc06716d0a",
@@ -4597,6 +5689,539 @@
                         "de716cf7ff7f8e3a668c54fe0da70edb05b3042dccdcb0e33917c080bd34038a",
                         "bcf742afd1e3f73d93590f480ab15b077d6f0d9ef42eeb20197b3dc15bac23f8",
                         "7e544c2a8793e86bca85587a023406eb5da9943a3175f1668982581d921e928b"
+                     ]
+                  }
+               ]
+            }
+         },
+         {
+            "publicId": "69892de7-ba0e-4e55-b642-d5956a2f4f15",
+            "assetPath": "delta/69892de7-ba0e-4e55-b642-d5956a2f4f15.ipa",
+            "sourceVariant": {
+               "installTargets": [
+                  {
+                     "device": "iPad14,2",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad14,6-A",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad13,6",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad13,5",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad14,5-B",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad7,5",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad8,3",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad13,18",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad7,6",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad8,2",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad8,12",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad14,1",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad13,7",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad13,4",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad8,12",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad7,6",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad16,5-B",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad8,2",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad8,3",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad13,19",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad7,5",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad13,18",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad13,7",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad14,5-B",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad14,6-A",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad8,4",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad8,11",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad13,16",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad13,8",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad16,5-A",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad13,19",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad8,1",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad7,4",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad13,6",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad14,5-A",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad14,6-B",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad7,11",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad8,10",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad8,5",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad13,9",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad13,17",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad7,3",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad8,7",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad13,9",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad14,11",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad7,1",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad8,6",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad11,1",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad14,10",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad13,8",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad14,4-B",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad7,12",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad7,2",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad8,10",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad7,11",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad14,8",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad14,4-A",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad11,2",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad11,1",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad7,3",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad8,5",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad16,6-B",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad11,3",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad16,6-A",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad8,1",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad7,4",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad8,4",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad8,11",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad14,3-B",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad12,1",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad11,3",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad11,4",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad13,10",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad16,3-A",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad14,9",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad14,3-A",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad14,3-A",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad12,2",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad11,2",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad13,11",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad8,9",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad14,3-B",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad11,6",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad13,10",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad12,2",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad8,8",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad13,11",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad11,7",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad11,4",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad12,1",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad13,1",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad13,16",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad11,7",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad14,4-A",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad13,2",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad13,1",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad7,12",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad8,6",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad16,4-B",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad7,2",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad13,17",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad11,6",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad14,4-B",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad8,7",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad16,4-A",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad7,1",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad13,4",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad14,1",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad8,8",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad13,5",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad13,2",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad14,6-B",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad14,5-A",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad14,2",
+                     "os": "17"
+                  },
+                  {
+                     "device": "iPad8,9",
+                     "os": "17.4"
+                  },
+                  {
+                     "device": "iPad16,3-B",
+                     "os": "17.4"
+                  }
+               ],
+               "appleVersionId": "867798022",
+               "version": "30.40"
+            },
+            "targetVariantAssetPath": "variant/162a0ce2-d1ed-4a62-b8ce-2934a18246bb.ipa",
+            "deltaDetails": {
+               "compressedSize": 227454715,
+               "uncompressedSize": 429709312,
+               "hashes": [
+                  {
+                     "algorithm": "sha256",
+                     "chunkSize": 10485760,
+                     "encryptedChunkDigests": [
+                        "eed39284899d070aea137b0ca2aa5ac1f840452ddc6422235c5c00724936a7ca",
+                        "23510993c2427643a4ae0e10de27690f976dd9d98a30949fdc36a2d66e6dd0f7",
+                        "04b8fbfce1300e0206697b81ac492bb05355e9d92390910af714f63a05d68e77",
+                        "74ab91de7f1fb9ad39fce004237ce3ea7d2378b691e5135d625fc52cc4c85de7",
+                        "f117a537c845dae5f0516c9a3859cf303c8ea995f303d61158e3a7f4d90d2c3f",
+                        "6e1a1a32c2e067100aac7448292d4921eb48c01d630c5d9712615621cb95bdc5",
+                        "9c4e937442e0dca7c6ed2c9bb72df4b76ae73664e882c2b0282915f5d87677d4",
+                        "a412046f53771324896006ce7ea63413b60ecb483cd3194e13a3adeff74a26cb",
+                        "f6c55bc4f670c1898b07dd93877f05f520165b5284d0f0368c0e5d19b53f2e07",
+                        "7dbb798c5983255fca7ff004ee3b5c192605abe6b1d4564cf71b2715069d5bfd",
+                        "757e6d6635e4678ac66764ee883c49d48253ce77950e6952afd99537d487230a",
+                        "6c47b329b4ad5a4ef6cf8cff28d12394e4994c731cc5e685faff5dc469bf6ab1",
+                        "c10164611fbe26131aa1777543d1c77973f6b595aefc04975e787028a72f72ef",
+                        "d73afc63a5ba22e2bb88794c01d17f97029a4ceba39224ad0c50f85d558f7f07",
+                        "521e427fefefff299f792706870cdf72f8b161072edf576c7523a4ebaca60aaf",
+                        "22cb8f1a1dc9b69c3864bd09a6dc3c5c73e0da35c12a55b956d14004f26838ce",
+                        "8ca3c6b77b9f77b8bd7377c09ab7b7295db2dc8500e6d20819a610e01a4c7a96",
+                        "26797ef8bf4ef4c9ab736268881d1847c6c2f38eb6b4ae4d55776bdfc860acfa",
+                        "4aab80c03a44e99ccbe5974f5f9b4810d47c04cc2bbde301696d160a0eb58068",
+                        "956ff4746d87a506ca62c63dd34b10a14d373d65805e623d86dd133d2ffa314e",
+                        "e7313c4d30cc1c1e2e62acf5c6af4d1df6452ac42a5c40fe9ae10c844d76e4ad",
+                        "ef2c81710e8194a07dcea7486b7c4fc6387053ee118ce319d51fa31c0ca12688"
+                     ],
+                     "unencryptedChunkDigests": [
+                        "2348c3efb8df321bf991ab1b7f736111183d9f3a9f22e574c10ba7d378544748",
+                        "ef122810a5fcaaa7f5ec72c802e705d883082499ef70cdac0022bb8bf6f61eb2",
+                        "1d76454c1a770cc7bfa7d408187c654d84fb308f5f4448162b06a97ce8b9b4cc",
+                        "07cbb8fd8391980e19c736e7ac94c467ddb6b9b61d103da4d2121cb65b37febd",
+                        "6443cfc6d050bfbee24af774d29029475935393487af63229aef2d6a52f1f226",
+                        "02f8e26fc33a58f5eddb47bc23e4d531c809f3e2d3fe6cbcef6e26a3bc7916ba",
+                        "0159c46199efb1936c444298d9b32291cae0101dd4ac2760075012d2d734c2e7",
+                        "327dba157b3e765d3ca9190a38af98292992b5f8cf2207cb4751674b68ed99f7",
+                        "9dfdea0a680cc2831d2d01763f57491360e73e2a518a7983810214c307a84662",
+                        "8eb7feb986b9ec87107180efea9ce26c82dab552a8d1055568cd31369e4eeccc",
+                        "e10b3aed8196227ec2d9fa4df868a3f0274d8c3248fe6ca76ef3e5c66ce1c314",
+                        "84b1bc931f7c8ed5b08881f4b15685c3c45504717dbbc6bc34e0fb85ffcd6467",
+                        "a8bc80e5fe2b411c574c23eefc114c21b1ed9efa9f0afa2e165547bfc04bf2f1",
+                        "d96534769cf42c783194edc7160e00cd5a9870d97a210b2253cb42abeacd88ce",
+                        "bbfe499b79089bc0f05a70be6de53205e64beb3744b7ca7f63b097615e2a310f",
+                        "1c26742715a1619df76e1cad95e354c286dde1b4d3a5f03793e1f68b9e5504bc",
+                        "19b2c13f748342224b2ace0ccaaf3a8162cf66d0577aa238527f92c84a23d775",
+                        "652c735ecb0d87228b8178e2b1ede72808ec269ec25e900120d58dd62ae092b6",
+                        "44439d23f55c267f7d705a79ba5d4004b72e2bf88a0a2a3d407fa2cb0fa251a7",
+                        "5d58ca4d7b0fcca4e8c23872b7db364d82342c189f08f644cbdc7be51aeab5cb",
+                        "4b26b653754b6f4fc55508f37796fb60d4f2bfd494da4f9ca98ade2990f5f2e7",
+                        "3c415d7a5c04dca6f7e80273c7f64112e6f565ae4a2b64e5df3f41849f0fbbed"
                      ]
                   }
                ]
@@ -5083,7 +6708,30 @@
                   {
                      "algorithm": "sha256",
                      "chunkSize": 10485760,
-                     "encryptedChunkDigests": [],
+                     "encryptedChunkDigests": [
+                        "89f98cfaad62b37e2940a442b58f22108b5e240b2f47ea66de9bd94d2bd14764",
+                        "1521fb35e14356cae133051de2e6dd139d09ad91e6ca02d555b42b8d41716724",
+                        "583d77238f35dbaae7bbae5f22fd2ebd995333385deaff2b6011c27a0bddb2dc",
+                        "540883c0931295774439782d61ec071a6f6b0351a3b69bebabbc634be07176db",
+                        "1dfb5b949a177667a1f14fe1859a843d7de548e19cd3cc3afac1b606e85a11eb",
+                        "e6d1bb45c5f86e634b8ce889d82702a03f5097ea541dcd857ea0ae2652b87bfc",
+                        "95ebae9c094afb0f32b7eb992a1ea761b1c99d3b33e5871a3aaf219ec03532a9",
+                        "047f5e4ed135cc8ac826bed2f20af5c5a3a81568d31afc9a237771de86f97898",
+                        "b4b5bca420fb2b6d1d67df89915d8be8d0dde5d9ce271a591b0cb866488525c1",
+                        "16a068eff29414b6741ce10ae64a1c393f53bdf9a4ac4d194a00a83f35dd7958",
+                        "12418779e7b51c6195f97fd2c2638cf8e2952316aaec0c242dd5d48d2e03384f",
+                        "e66a4800b83376a7534fdfd8ac7817e7f1ca7c5529fd8975a6402c0068a933b5",
+                        "2b97954a6fd37b13b54ecbea8468528fe66993bc1e97ac05b8f6a0ecd658d5fb",
+                        "a65d348d0059439a68a0d4a4d774405dfa1cd7874bd5e4265c4797a8ab669b61",
+                        "ec97eb6a1a1829ddee0fe955a7e23ab9d7535265958189401d81fc21d107e7e0",
+                        "02c044a2d6f709f38de327526293e2d737eb93b0c6239572731be04318038202",
+                        "b046c89b9d41195da083e0c31d2189e2010f6c43198ff3e9788b1f5b505e04c7",
+                        "230722ac377b93cb936f7dd3d51ee348b82cdb07b5f02738def41d224389d53a",
+                        "c10a0e527c5519a0c43f5ffa651c4425715639361b6627d3d3bb4fc41ee45bf7",
+                        "6a5852485bc38896452ecc2db2a548dbfa2bc1e5eaa17760d14833901c24a76f",
+                        "5fef8888afc6ac7d8532eccf04bb15fe94fb5ba0a4253bc8c16d33178cc6f951",
+                        "fa32a62f1a66456d9ee8ae804b903ee96a63ce217ffcc131c8726a57284f7980"
+                     ],
                      "unencryptedChunkDigests": [
                         "e23dc8cbf635c7837847653a09733ca1b7aae8af45f70ee9c608b2184147b00f",
                         "a1b9b4ad7bee154540233a1c5d577e03deb37efe195d99f2188aff82f18c1093",
